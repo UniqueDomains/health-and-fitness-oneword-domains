@@ -1,22 +1,22 @@
-# Health and Fitness One-Word Domains (22,934)
+# Health & Fitness Keyword Domains (22,037)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C934%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C037%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of health and fitness one-word domains from Unique Domains.
+These are health and fitness keyword domains spanning 505 TLDs, including names like yoga.site, movement.page, and doctor.forum. Updated daily. This selection contains 22,037 domains, with a median ask of $703, so comparison should focus on extension fit, brand clarity, and renewal logic.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,934 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,037 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,934 domains
+**Public extract:** 1,000 rows · **Live catalog:** 22,037 domains · **Median ask:** $702.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Health%20and%20Fitness`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| health.poker   | available | $85.98    | —             | 92             | 45     | 6      | namecheap         |
-| health.theater | resell    | $80.98    | —             | 92             | 43     | 6      | Sav.com, LLC      |
-| health.zip     | premium   | $1,298.70 | $1,298.70     | 92             | 43     | 6      | namecheap         |
-| health.voting  | available | $1,448    | —             | 92             | 43     | 6      | namecheap         |
-| fitness.net    | resell    | $287,500  | $23.99        | 78             | 36     | 7      | GoDaddy.com, LLC  |
-| health.yachts  | premium   | $2,600    | $2,600        | 92             | 43     | 6      | namecheap         |
-| health.vodka   | available | $38.98    | —             | 92             | 43     | 6      | namecheap         |
-| health.fast    | resell    | —         | —             | 92             | 44     | 6      | Spaceship, Inc.   |
-| health.wine    | premium   | $85.80    | $85.80        | 92             | 43     | 6      | namecheap         |
-| health.viajes  | available | $57.98    | —             | 92             | 43     | 6      | namecheap         |
-| health.yoga    | resell    | —         | —             | 92             | 43     | 6      | GoDaddy.com, LLC  |
-| health.wiki    | premium   | $1,722.50 | $1,722.50     | 92             | 43     | 6      | namecheap         |
-| health.vana    | available | $2,498    | —             | 92             | 43     | 6      | namecheap         |
-| health.wtf     | resell    | —         | —             | 92             | 43     | 6      | Sav.com, LLC - 15 |
-| health.wedding | premium   | $52       | $31.20        | 92             | 43     | 6      | namecheap         |
-| health.tires   | available | $110.98   | —             | 92             | 43     | 6      | namecheap         |
-| health.world   | resell    | —         | —             | 92             | 43     | 6      | Dynadot Inc       |
-| health.website | premium   | $1,625    | $3,250        | 92             | 43     | 6      | namecheap         |
-| health.tienda  | available | $74.98    | —             | 92             | 43     | 6      | namecheap         |
-| health.works   | resell    | —         | —             | 92             | 43     | 6      | Spaceship, Inc.   |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| exercise.apartments | premium   | —         | —             | 98             | 13     | 8      | —                 |
+| health.irish        | resell    | —         | —             | 92             | 43     | 6      | Sav.com, LLC - 12 |
+| exercise.luxury     | premium   | —         | —             | 98             | 13     | 8      | —                 |
+| health.poker        | available | $85.98    | —             | 92             | 45     | 6      | namecheap         |
+| health.theater      | resell    | $80.98    | —             | 92             | 43     | 6      | Sav.com, LLC      |
+| health.zip          | premium   | $1,298.70 | $1,298.70     | 92             | 43     | 6      | namecheap         |
+| health.voting       | available | $1,448    | —             | 92             | 43     | 6      | namecheap         |
+| fitness.net         | resell    | $287,500  | $23.99        | 78             | 36     | 7      | GoDaddy.com, LLC  |
+| health.yachts       | premium   | $2,600    | $2,600        | 92             | 43     | 6      | namecheap         |
+| health.vodka        | available | $38.98    | —             | 92             | 43     | 6      | namecheap         |
+| health.fast         | resell    | —         | —             | 92             | 44     | 6      | Spaceship, Inc.   |
+| health.wine         | premium   | $85.80    | $85.80        | 92             | 43     | 6      | namecheap         |
+| health.viajes       | available | $57.98    | —             | 92             | 43     | 6      | namecheap         |
+| health.yoga         | resell    | —         | —             | 92             | 43     | 6      | GoDaddy.com, LLC  |
+| health.wiki         | premium   | $1,722.50 | $1,722.50     | 92             | 43     | 6      | namecheap         |
+| health.vana         | available | $2,498    | —             | 92             | 43     | 6      | namecheap         |
+| health.wtf          | resell    | —         | —             | 92             | 43     | 6      | Sav.com, LLC - 15 |
+| health.wedding      | premium   | $52       | $31.20        | 92             | 43     | 6      | namecheap         |
+| health.tires        | available | $110.98   | —             | 92             | 43     | 6      | namecheap         |
+| health.world        | resell    | —         | —             | 92             | 43     | 6      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 22,934 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 22,037 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is broad by design: 22,037 domains tied to health and fitness keywords, spread across 505 TLDs. The sample names show that many are keyword-led rather than pure one-word brands, and extension quality varies widely. For founders, the main question is whether the full name reads credibly enough to support a real brand without creating confusion. For investors, the key test is whether the ask leaves room for a reasonable spread after accounting for extension strength and likely renewal drag. With a median ask near $703, the better candidates are usually the ones where the keyword and TLD make sense together, not just the cheapest listings.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the keyword and TLD fit naturally together
+- Use the $703 median ask as a rough pricing anchor
+- Favor memorable names over awkward keyword-extension combos
+- Watch niche TLDs for weaker trust and renewal risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Health and Fitness One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Health & Fitness Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
