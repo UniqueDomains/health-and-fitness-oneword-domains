@@ -65,25 +65,25 @@ print(df.head())
 | domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
 | ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | exercise.apartments | premium   | —          | —             | 98             | 15     | 8      | —                 |
-| health.irish        | resell    | —          | —             | 92             | 43     | 6      | Sav.com, LLC - 12 |
+| health.irish        | resell    | —          | —             | 92             | 42     | 6      | Sav.com, LLC - 12 |
 | exercise.luxury     | premium   | —          | —             | 98             | 15     | 8      | —                 |
 | health.poker        | available | $85.98     | —             | 92             | 45     | 6      | namecheap         |
-| health.theater      | resell    | $80.98     | —             | 92             | 43     | 6      | Sav.com, LLC      |
-| health.zip          | premium   | $1,298.70  | $1,298.70     | 92             | 43     | 6      | namecheap         |
-| health.voting       | available | $1,448     | —             | 92             | 43     | 6      | namecheap         |
+| health.theater      | resell    | $80.98     | —             | 92             | 42     | 6      | Sav.com, LLC      |
+| health.zip          | premium   | $1,298.70  | $1,298.70     | 92             | 42     | 6      | namecheap         |
+| health.voting       | available | $1,448     | —             | 92             | 42     | 6      | namecheap         |
 | fitness.org         | resell    | $1,725,000 | $21.99        | 78             | 36     | 7      | GoDaddy.com, LLC  |
-| health.yachts       | premium   | $2,600     | $2,600        | 92             | 43     | 6      | namecheap         |
-| health.vodka        | available | $38.98     | —             | 92             | 43     | 6      | namecheap         |
+| health.yachts       | premium   | $2,600     | $2,600        | 92             | 42     | 6      | namecheap         |
+| health.vodka        | available | $38.98     | —             | 92             | 42     | 6      | namecheap         |
 | fitness.net         | resell    | $287,500   | $23.99        | 78             | 36     | 7      | GoDaddy.com, LLC  |
-| health.wine         | premium   | $85.80     | $85.80        | 92             | 43     | 6      | namecheap         |
-| health.viajes       | available | $57.98     | —             | 92             | 43     | 6      | namecheap         |
-| health.fast         | resell    | —          | —             | 92             | 44     | 6      | Spaceship, Inc.   |
-| health.wiki         | premium   | $1,722.50  | $1,722.50     | 92             | 43     | 6      | namecheap         |
-| health.vana         | available | $2,498     | —             | 92             | 43     | 6      | namecheap         |
-| health.yoga         | resell    | —          | —             | 92             | 43     | 6      | GoDaddy.com, LLC  |
-| health.wedding      | premium   | $52        | $31.20        | 92             | 43     | 6      | namecheap         |
-| health.tires        | available | $110.98    | —             | 92             | 43     | 6      | namecheap         |
-| health.wtf          | resell    | —          | —             | 92             | 43     | 6      | Sav.com, LLC - 15 |
+| health.wine         | premium   | $85.80     | $85.80        | 92             | 42     | 6      | namecheap         |
+| health.viajes       | available | $57.98     | —             | 92             | 42     | 6      | namecheap         |
+| health.horse        | resell    | —          | —             | 92             | 43     | 6      | Spaceship, Inc.   |
+| health.wiki         | premium   | $1,722.50  | $1,722.50     | 92             | 42     | 6      | namecheap         |
+| health.vana         | available | $2,498     | —             | 92             | 42     | 6      | namecheap         |
+| health.yoga         | resell    | —          | —             | 92             | 42     | 6      | GoDaddy.com, LLC  |
+| health.wedding      | premium   | $52        | $31.20        | 92             | 42     | 6      | namecheap         |
+| health.tires        | available | $110.98    | —             | 92             | 42     | 6      | namecheap         |
+| health.wtf          | resell    | —          | —             | 92             | 42     | 6      | Sav.com, LLC - 15 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
