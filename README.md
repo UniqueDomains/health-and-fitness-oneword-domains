@@ -16,7 +16,7 @@ These are health and fitness keyword domains spanning 505 TLDs, including names 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,059 domains · **Median ask:** $1,006.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/sector/Health%20and%20Fitness`  
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Health & Fitness Keyword Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Health & Fitness Keyword Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
