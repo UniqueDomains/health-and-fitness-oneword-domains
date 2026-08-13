@@ -654,6 +654,7 @@ c57878a9-e040-4c7e-9ef2-80a6c0746983,gym.institute,premium,123.75,,high,low,3,na
 443d9bec-0df9-4e26-b689-571164c1e05e,gym.study,premium,625,,high,low,3,name.com,,
 cc35f081-b741-4bb3-8b06-6a83925903ab,health.hospital,resell,,,high,medium,6,"Sav.com, LLC - 20",20/06/2025 15:15,20/06/2026 15:15
 10f82fec-cc4a-4662-a601-155ec69e555c,balance.doctor,available,14.99,,high,low,7,name.com,,
+75f22b9b-b510-428d-8185-df1d89cfe41b,vitamins.hospital,available,57.99,57.99,medium,low,8,namesilo,,
 f43b5f48-76a3-4d4f-95ab-34d78b6910e6,eat.ing,premium,37500,,high,low,6,name.com,,
 d2229168-a47e-42bb-9355-cc4d47350981,warm.fitness,available,9.99,52.99,high,low,4,name.com,,
 64d1d294-dd15-48fe-8868-eaedb018ef0f,heart.healthcare,premium,500,,high,low,5,name.com,,
@@ -680,8 +681,10 @@ fca634e4-b307-46db-9a5a-fdf679c0f32e,system.fitness,resell,,,medium,medium,6,Dyn
 8c3a8d52-112c-4e83-b33d-61a9b12e7c9c,personal.doctor,available,,,high,low,8,,,
 15e1a402-5ffb-4b7d-bb68-4d95411d766d,heart.run,resell,,,high,low,5,"Key-Systems, LLC",27/08/2015 10:52,27/08/2026 10:52
 807e2747-ac80-4ff5-927f-403492a591c1,coach.services,premium,140,280,high,low,5,namecheap,,
+2dc3f2a3-3622-416a-b686-47bc2ffa91fc,fit.shop,premium,6250,,high,medium,3,name.com,,
 eb09eb6e-e0c7-4cbf-b35c-d991b3fb1035,self.fitness,resell,,,medium,medium,4,Dynadot Inc,01/02/2026 17:00,01/02/2027 17:00
 76d2160a-160b-43d2-b263-54a8b75ca5af,medical.tennis,available,80.99,86.99,high,low,7,name.com,,
+a36e845d-dc2a-4598-b2dd-a286357a2f6b,weights.fitness,premium,78.54,78.54,medium,low,7,namesilo,,
 b564d6ba-8ee4-4e92-b509-4190075e149d,sports.ing,premium,3900,3900,high,medium,6,namecheap,,
 c352bf9f-3bad-470e-89a3-620cf871e309,gym.systems,resell,,,high,low,3,Dynadot Inc,27/01/2026 17:00,27/01/2027 17:00
 f25b9bf9-4f20-433c-a660-ae5352c1bb9f,eating.yoga,available,32.49,32.49,high,low,6,namesilo,,
@@ -694,6 +697,7 @@ ef2d3b72-6b4c-415c-a62e-3a868c3c940c,medicine.surgery,premium,242,242,high,low,8
 4aec0cde-f7a5-4673-85aa-76c485a0c32d,club.surgery,premium,242,242,high,low,4,namesilo,,
 a9e06d6e-a98c-4e8a-adc7-08a22693535d,food.surgery,premium,128.7,128.7,high,medium,4,namecheap,,
 0a3003e8-839f-429f-86d2-8b4e13c66fcd,track.surgery,available,67.49,71.99,high,medium,5,name.com,,
+d79ec319-c8b2-443c-9bba-b0d8bffe64a0,vitamins.surgery,available,54.99,54.99,medium,low,8,namesilo,,
 ff588d36-a29e-42e1-993e-4cd099c1c6b6,routine.hospital,available,71.98,,high,low,7,namecheap,,
 acedde55-a17c-4626-a22d-b9ffb9b26da2,track.life,resell,,,high,medium,5,"NameCheap, Inc.",14/09/2014 19:17,14/09/2026 19:17
 f81b1c29-4dd3-4d95-817a-3c5392d3aab2,medicine.life,resell,,,high,low,8,Xin Net Technology Corporation,01/02/2021 08:25,01/02/2027 08:25
@@ -823,6 +827,7 @@ c3b8c8eb-3fe9-4901-bae5-3152e3b8bde9,coach.ski,premium,3125,,high,low,5,name.com
 77dafb7a-f2cc-4d84-a716-1b704df6b9ea,management.run,resell,,,high,low,10,Squarespace Domains II LLC,15/08/2019 05:50,15/08/2026 05:50
 87026f19-a04a-4fb9-9cc3-6de35ae3e49c,might.rehab,available,14.99,,high,low,5,name.com,,
 a5e6083f-1d40-4ca6-a936-faea242318e8,gym.space,premium,812.5,3250,high,low,3,namecheap,,
+c34002e8-d779-4a89-9c5e-f3477ee049fb,well.solutions,resell,,,high,low,4,Porkbun LLC,09/06/2020 08:48,09/06/2026 08:48
 bd438841-7c49-4cac-9ca6-63bf87480e14,coach.it,resell,,,high,low,5,,18/05/1999 00:00,08/04/2027 00:00
 be57205f-a77d-403d-b41b-d83fb2373f72,personal.cricket,premium,1300,130,high,low,8,namecheap,,
 07450ac1-f68c-433b-b969-4a11a745e3b7,eating.hockey,available,14.99,,high,low,6,name.com,,
@@ -862,6 +867,7 @@ ae5fc54a-1ee3-4859-8c3c-2033534bb282,mental.doctor,available,14.99,,high,low,6,n
 996a2bda-992e-437e-bee7-196830a2f771,eating.rehab,available,14.99,,high,low,6,name.com,,
 8fc2c4ed-7171-42b0-9865-b2d2519c8fff,might.living,premium,98,140,high,low,5,namecheap,,
 1651a195-3311-4060-a2ca-b3196b907a0d,might.lifestyle,premium,98,140,high,low,5,namecheap,,
+a0efc8d6-4abc-4141-b511-e4c7111f2ce6,nutrients.life,available,2.99,,medium,low,9,name.com,,
 e3f18950-8003-4511-99e1-116b9b97ca78,coach.food,premium,490,700,high,low,5,namecheap,,
 e0047ee9-8f79-4d2e-9126-7928b147e105,coach.sbs,premium,282.88,565.76,high,low,5,namesilo,,
 08806548-21b0-44fb-b729-f22ed89b7c9c,routine.cricket,premium,437.5,,high,low,7,name.com,,
@@ -993,9 +999,3 @@ ecbfa615-86f1-4c91-bfc6-6699ba35d433,balance.training,premium,242,242,high,low,7
 69826d94-e8ea-424c-8f3a-25633aef3081,room.futbol,available,17.99,17.99,high,low,4,namesilo,,
 9a1d7755-e9fa-46bc-8e47-9c8c3a46c32f,room.football,available,19.99,,high,low,4,name.com,,
 c6f17ec2-93a1-4f6e-97f3-74a30b33230d,dietary.expert,available,,,high,high,7,,,
-2e34aceb-89fb-42e7-b574-94c21fd0513b,sinew.expert,available,,,high,high,5,,,
-36a92ea2-bff5-4fec-a81e-f651db1011de,vigor.expert,available,11.99,,high,low,5,name.com,,
-79f5b261-c844-4d6c-8bb3-5d0118d3774c,class.pro,resell,,,high,low,5,Epik LLC,21/07/2015 01:05,21/07/2026 01:05
-0382f86e-bb26-4fbe-8c2c-102ff0ceabd3,coach.army,available,19.99,,high,low,5,name.com,,
-35ae46e3-f888-4e76-a7d5-56cda3465ebb,coach.airforce,available,103.99,103.99,high,low,5,namesilo,,
-4fc8de63-de16-4963-b7fd-10a2fa1ff9dc,mental.pro,available,,,high,low,6,,,
