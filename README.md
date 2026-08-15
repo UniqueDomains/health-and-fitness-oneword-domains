@@ -1,10 +1,10 @@
-# One-Word Health & Fitness Domain Names Across 506 TLDs (185,178)
+# One-Word Health & Fitness Domain Names Across 506 TLDs (186,067)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-185%2C178%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-186%2C067%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 171,402 one-word domain names related to health and fitness, spanning 506 TLDs with a median asking price near $648. Updated daily, it lets you compare price, TLD, and brandability side by side.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **185,178 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **186,067 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 185,178 domains · **Median ask:** $586.63 · **High-demand under $2,500:** 529
+**Public extract:** 1,000 rows · **Live catalog:** 186,067 domains · **Median ask:** $583.87 · **High-demand under $2,500:** 529
 
 **Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| and.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| out.autos      | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC      |
-| fit.cricket    | premium   | $1,107    | $116          | high           | medium | 3      | namesilo         |
 | fit.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| fit.run        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| out.autos      | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC      |
 | fit.healthcare | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| fit.hospital   | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
-| gym.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| fit.racing     | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
-| gym.degree     | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| gym.co         | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| fit.surgery    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
 | gym.football   | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| gym.run        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| gym.business   | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
+| fit.care       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| gym.bike       | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap        |
 | gym.hiv        | available | $184.99   | —             | high           | low    | 3      | name.com         |
-| gym.systems    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| gym.clinic     | premium   | $250      | —             | high           | low    | 3      | name.com         |
+| fit.run        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| gym.cricket    | premium   | $625      | —             | high           | low    | 3      | name.com         |
 | gym.hockey     | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| gym.run        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| gym.fitness    | premium   | $1,000    | —             | high           | low    | 3      | name.com         |
+| gym.hospital   | available | $71.98    | —             | high           | low    | 3      | namecheap        |
 | gym.yoga       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| gym.health     | premium   | $6,250    | —             | high           | low    | 3      | name.com         |
+| gym.soccer     | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| out.asia       | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.  |
+| gym.healthcare | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
+| gym.tennis     | available | $80.99    | —             | high           | low    | 3      | name.com         |
+| out.baby       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 185,178 live domains                       |
+| 1,000-row public sample | 186,067 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 529 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
