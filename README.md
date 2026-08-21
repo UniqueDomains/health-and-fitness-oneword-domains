@@ -1,10 +1,10 @@
-# One-Word Health & Fitness Domain Names Across 506 TLDs (192,285)
+# One-Word Health & Fitness Domain Names Across 506 TLDs (193,878)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-192%2C285%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-193%2C878%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 171,402 one-word domain names related to health and fitness, spanning 506 TLDs with a median asking price near $648. Updated daily, it lets you compare price, TLD, and brandability side by side.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **192,285 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **193,878 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 192,285 domains · **Median ask:** $570.91 · **High-demand under $2,500:** 524
+**Public extract:** 1,000 rows · **Live catalog:** 193,878 domains · **Median ask:** $566.50 · **High-demand under $2,500:** 524
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 192,285 live domains                       |
+| 1,000-row public sample | 193,878 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 524 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
