@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| and.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| out.autos      | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC      |
-| fit.cricket    | premium   | $1,107    | $116          | high           | medium | 3      | namesilo         |
-| fit.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| fit.run        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
-| fit.healthcare | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| fit.hockey     | available | $14.99    | —             | high           | medium | 3      | name.com         |
-| gym.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| fit.racing     | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
-| fit.hospital   | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
-| gym.co         | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| fit.shop       | premium   | $6,250    | —             | high           | medium | 3      | name.com         |
-| gym.degree     | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| gym.run        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| fit.surgery    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| gym.football   | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| gym.systems    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| gym.associates | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
-| gym.hiv        | available | $184.99   | —             | high           | low    | 3      | name.com         |
-| gym.yoga       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| fit.diet        | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
+| out.autos       | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC      |
+| gym.bike        | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap        |
+| gym.hospital    | available | $71.98    | —             | high           | low    | 3      | namecheap        |
+| physical.help   | resell    | $1.99     | $50.99        | medium         | low    | 8      | Dynadot Inc      |
+| gym.fitness     | premium   | $1,000    | —             | high           | low    | 3      | name.com         |
+| out.accountants | available | $43.99    | —             | high           | low    | 3      | name.com         |
+| fit.care        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| gym.health      | premium   | $6,250    | —             | high           | low    | 3      | name.com         |
+| out.actor       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| fit.today       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| gym.healthcare  | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
+| out.adult       | available | $166.98   | —             | high           | low    | 3      | namecheap        |
+| gym.run         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| gym.pro         | premium   | $3,250    | $3,250        | high           | low    | 3      | namecheap        |
+| out.airforce    | available | $103.99   | $103.99       | high           | low    | 3      | namesilo         |
+| gym.yoga        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| out.academy     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| out.apartments  | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| out.asia        | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
