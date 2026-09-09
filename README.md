@@ -16,7 +16,7 @@ This selection covers 171,402 one-word domain names related to health and fitnes
 
 **Public extract:** 1,000 rows · **Live catalog:** 203,862 domains · **Median ask:** $542.56 · **High-demand under $2,500:** 522
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| fit.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                            |
-| fat.email      | resell    | —         | —             | medium         | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| gym.fitness    | premium   | $1,000    | —             | high           | low    | 3      | name.com                                            |
-| gym.ryukyu     | available | $22.98    | —             | high           | low    | 3      | namecheap                                           |
-| fit.care       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                         |
-| out.coach      | premium   | $19.99    | —             | high           | low    | 3      | name.com                                            |
-| mat.ryukyu     | available | $22.98    | —             | high           | low    | 3      | namecheap                                           |
-| fit.solar      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 43                                   |
-| out.fun        | premium   | $156.25   | —             | high           | low    | 3      | name.com                                            |
-| out.diet       | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                                            |
-| fit.today      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                     |
-| out.health     | premium   | $1,107    | $71.40        | high           | low    | 3      | namesilo                                            |
-| out.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
-| out.yoga       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
-| out.healthcare | premium   | $242      | $242          | high           | low    | 3      | namesilo                                            |
-| out.expert     | available | $11.99    | $77.99        | high           | low    | 3      | name.com                                            |
-| food.media     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                         |
-| out.shop       | premium   | $3,125    | —             | high           | low    | 3      | name.com                                            |
-| out.hospital   | available | $57.99    | $57.99        | high           | low    | 3      | namesilo                                            |
-| food.place     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| gym.ryukyu      | available | $22.98    | —             | high           | low    | 3      | namecheap         |
+| fit.solar       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 43 |
+| gym.mobile      | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
+| out.diet        | available | $104.99   | $114.99       | high           | low    | 3      | namesilo          |
+| club.fit        | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| out.fun         | premium   | $156.25   | —             | high           | low    | 3      | name.com          |
+| care.ryukyu     | available | $22.98    | —             | medium         | medium | 4      | namecheap         |
+| food.media      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| runs.fit        | premium   | $500      | —             | medium         | low    | 4      | name.com          |
+| loss.pet        | available | $19.99    | —             | medium         | low    | 4      | name.com          |
+| food.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| spas.fit        | premium   | $250      | —             | medium         | low    | 4      | name.com          |
+| runs.health     | available | $19.99    | —             | medium         | low    | 4      | name.com          |
+| food.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| heart.you       | premium   | $236,900  | —             | high           | low    | 5      | Dynadot, LLC      |
+| spas.diet       | available | $159.98   | —             | medium         | low    | 4      | namecheap         |
+| food.taxi       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
+| vigor.mobile    | premium   | $375      | —             | high           | low    | 5      | name.com          |
+| spas.hockey     | available | $14.99    | —             | medium         | low    | 4      | name.com          |
+| life.foundation | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
