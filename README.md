@@ -16,7 +16,7 @@ This selection covers 171,402 one-word domain names related to health and fitnes
 
 **Public extract:** 1,000 rows · **Live catalog:** 208,827 domains · **Median ask:** $535.20 · **High-demand under $2,500:** 522
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| and.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| out.autos      | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC      |
-| fit.healthcare | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| fit.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| fit.care       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
-| fit.racing     | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
-| fit.hospital   | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
-| fit.run        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
-| fit.shop       | premium   | $6,250    | —             | high           | medium | 3      | name.com         |
-| gym.degree     | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| gym.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| fit.surgery    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| gym.football   | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| gym.co         | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| gym.bike       | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap        |
-| gym.hiv        | available | $184.99   | —             | high           | low    | 3      | name.com         |
-| gym.run        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| gym.business   | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
-| gym.hockey     | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| gym.systems    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| and.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo          |
+| out.autos      | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC       |
+| fit.cricket    | premium   | $1,107    | $116          | high           | medium | 3      | namesilo          |
+| fit.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo          |
+| fit.rehab      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 34 |
+| fit.healthcare | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| fit.hockey     | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| fit.run        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| fit.racing     | premium   | $116      | $116          | high           | medium | 3      | namesilo          |
+| fit.hospital   | available | $57.99    | $57.99        | high           | medium | 3      | namesilo          |
+| gym.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| fit.surgery    | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| gym.degree     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| gym.co         | resell    | —         | —             | high           | low    | 3      | Dynadot Inc       |
+| gym.associates | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
+| gym.football   | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| gym.run        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| gym.business   | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
+| gym.hiv        | available | $184.99   | —             | high           | low    | 3      | name.com          |
+| gym.systems    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
