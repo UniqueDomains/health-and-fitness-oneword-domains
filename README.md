@@ -16,7 +16,7 @@ This selection covers 171,402 one-word domain names related to health and fitnes
 
 **Public extract:** 1,000 rows · **Live catalog:** 212,590 domains · **Median ask:** $526.85 · **High-demand under $2,500:** 522
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| and.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| out.autos      | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC      |
-| fit.cricket    | premium   | $1,107    | $116          | high           | medium | 3      | namesilo         |
-| fit.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
-| fit.run        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
-| fit.healthcare | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| fit.hockey     | available | $14.99    | —             | high           | medium | 3      | name.com         |
-| gym.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| fit.racing     | premium   | $116      | $116          | high           | medium | 3      | namesilo         |
-| fit.hospital   | available | $57.99    | $57.99        | high           | medium | 3      | namesilo         |
-| gym.co         | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| fit.shop       | premium   | $6,250    | —             | high           | medium | 3      | name.com         |
-| gym.degree     | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| gym.run        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| fit.surgery    | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| gym.football   | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| gym.systems    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| gym.associates | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
-| gym.hiv        | available | $184.99   | —             | high           | low    | 3      | name.com         |
-| gym.yoga       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                  |
+| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| gym.actor      | available | $19.99     | —             | high           | low    | 3      | name.com                   |
+| health.theater | resell    | $80.98     | —             | high           | medium | 6      | Sav.com, LLC               |
+| gym.associates | premium   | $82.50     | —             | high           | low    | 3      | name.com                   |
+| gym.adult      | available | $166.98    | —             | high           | low    | 3      | namecheap                  |
+| fitness.net    | resell    | $287,500   | $23.99        | high           | low    | 7      | GoDaddy.com, LLC           |
+| gym.autos      | premium   | $812.50    | —             | high           | low    | 3      | name.com                   |
+| gym.airforce   | available | $134.98    | —             | high           | low    | 3      | namecheap                  |
+| fitness.org    | resell    | $1,725,000 | $21.99        | high           | low    | 7      | GoDaddy.com, LLC           |
+| gym.bar        | premium   | $3,937.50  | —             | high           | low    | 3      | name.com                   |
+| gym.apartments | available | $19.99     | —             | high           | low    | 3      | name.com                   |
+| gym.asia       | resell    | —          | —             | high           | low    | 3      | 1API GmbH                  |
+| gym.bayern     | premium   | $58.74     | —             | high           | low    | 3      | name.com                   |
+| gym.archi      | available | $24.99     | —             | high           | low    | 3      | name.com                   |
+| gym.blue       | resell    | —          | —             | high           | low    | 3      | Spaceship, Inc.            |
+| gym.beauty     | premium   | $812.50    | —             | high           | low    | 3      | name.com                   |
+| gym.audio      | available | $159.98    | —             | high           | low    | 3      | namecheap                  |
+| gym.cafe       | resell    | —          | —             | high           | low    | 3      | Spaceship, Inc.            |
+| gym.beer       | premium   | $500       | —             | high           | low    | 3      | name.com                   |
+| gym.auto       | available | $2,950     | —             | high           | low    | 3      | namecheap                  |
+| gym.cc         | resell    | —          | —             | high           | low    | 3      | eName Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
