@@ -1,10 +1,13 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+d89c3e0a-5d5c-4baa-a7de-37d0c549f37f,health.shop,premium,6500,6500,medium,low,6,namecheap,,,19/09/2026 10:54
 c38facd4-0555-4d73-b8a9-aa5f51ca50aa,fitness.academy,resell,,,high,low,7,Porkbun LLC,19/09/2015 00:14,19/09/2026 00:14,
+e7733144-5453-46eb-a505-334d29f13048,health.supplies,resell,,,medium,low,6,,,,19/09/2026 10:54
 31aa0caa-52e3-4814-9353-73ce1220f127,health.live,resell,,,medium,low,6,"GoDaddy.com, LLC",22/04/2016 04:04,22/04/2027 04:04,19/09/2026 10:54
 d81e5b1f-f4a6-48a7-a9ee-52653d52aa64,health.company,resell,,,medium,low,6,,,,19/09/2026 10:54
 f707032c-1948-4a67-96bb-2ba60ee16127,fitness.diet,premium,104.99,114.99,high,low,7,namesilo,,,
 acc096bf-60cd-4ca0-8d9d-0cde7a426f77,health.energy,resell,,,medium,low,6,,,,19/09/2026 10:54
 813a1817-0073-4861-8631-5bdeb7e9805e,health.design,resell,,,medium,low,6,,,,19/09/2026 10:54
+3f25c475-a5c5-4751-a77b-24d3cdc17dd8,sports.paris,available,51.98,,high,medium,6,namecheap,,,
 201ebdcb-54c2-49b2-a4ab-ddd8ba0b5c85,health.diet,premium,2660,2660,medium,low,6,namesilo,,,19/09/2026 10:54
 7f6ea8aa-b28e-4ff9-92b0-717d3899ade5,strength.fit,resell,,,medium,low,8,"GoDaddy.com, LLC",17/08/2020 09:43,17/08/2027 09:43,19/09/2026 17:18
 407969c9-f228-44f5-8a44-30c5b300a2b2,fitness.health,resell,,,high,low,7,"GoDaddy.com, LLC",07/11/2023 21:35,07/11/2026 21:35,
@@ -17,7 +20,10 @@ d0b9f283-68b5-4e29-9b86-7a61cbe3c51f,sports.team,resell,,,high,medium,6,"GoDaddy
 c5ee082f-3a2f-4aa3-976f-1cf5631d383b,fitness.living,premium,1300,2600,high,low,7,namecheap,,,
 038721c2-5f4a-486b-94c7-091fd3dba01f,fitness.expert,premium,1040,1040,high,low,7,namecheap,,,
 fa953ce6-de97-40ec-817a-2eb488c99583,health.realty,available,109.99,299,medium,low,6,namesilo,,,19/09/2026 10:54
+2f4129db-4cec-457a-b2ab-0b9d8e30b5b4,strength.dog,available,7.49,64.99,medium,low,8,namesilo,,,19/09/2026 17:18
 b5fbdc8e-d025-4b22-9763-c99581fead8f,health.rich,available,94.99,1999,medium,low,6,namesilo,,,19/09/2026 10:54
+42949a98-9ff8-4bf4-a37d-f244cc96c378,strength.pet,available,6.98,35.98,medium,low,8,namecheap,,,19/09/2026 17:18
+c8e5b10d-02e7-41f0-ba6c-c59ccaac8610,strength.organic,available,17.99,85.99,medium,low,8,namesilo,,,19/09/2026 17:18
 838f1454-7f40-43e4-80b5-169ae48b7b75,sports.broker,premium,1250,,high,medium,6,name.com,,,
 e0f0b2bc-e087-49f1-b54c-088359a0cac1,fitness.vet,premium,128.7,128.7,high,low,7,namecheap,,,
 5a08e1db-c099-4784-9026-0381e33e2e62,fitness.surgery,premium,260,260,high,low,7,namecheap,,,
@@ -26,24 +32,34 @@ e0f0b2bc-e087-49f1-b54c-088359a0cac1,fitness.vet,premium,128.7,128.7,high,low,7,
 247c6db6-f4ac-498e-88a0-876a008216c7,fitness.dog,resell,,,high,low,7,"Sav.com, LLC - 24",26/04/2025 15:15,26/04/2027 15:15,
 17d0da9c-7bf3-4f83-9649-00acb6a18e14,fitness.horse,premium,104,31.2,high,low,7,namecheap,,,
 6644b71a-4fd9-428f-8c2b-d408db93f874,fitness.hiv,available,184.99,,high,low,7,name.com,,,
+ebd79fdb-cca1-4f4b-83ff-f2d5aa22542a,strength.green,available,14.99,79.99,medium,low,8,namesilo,,,19/09/2026 17:18
 5efa0d53-5122-4afc-b59b-42061df0fb80,fitness.rehab,premium,260,260,high,low,7,namecheap,,,
 156b8470-7deb-45e4-9ff3-aa0ecd51b273,fitness.men,available,,,high,low,7,,,,
 91c463ec-a406-413f-a74c-82d4858a2d97,fitness.care,resell,,,high,low,7,"GoDaddy.com, LLC",01/05/2024 14:28,01/05/2027 14:28,
 76e1d735-80ac-4861-9d65-cf0ff02730ab,fitness.shiksha,premium,780,780,high,low,7,namecheap,,,
+97661b7f-6f48-4712-aea4-5514992dbf98,strength.industries,available,45.99,45.99,medium,low,8,namesilo,,,19/09/2026 17:18
+64d6e961-3bcc-4aee-a7ca-125ea507346d,strength.loan,premium,116,29.5,medium,low,8,namesilo,,,19/09/2026 17:18
 51d2dc39-949e-42b7-9811-ae3653acbac8,fitness.hockey,available,14.99,,high,low,7,name.com,,,
+be31f5c9-c6dd-408b-b1d3-abdd3fd58cc4,strength.auto,available,2070,2950,medium,low,8,namecheap,,,19/09/2026 17:18
 818770b3-352c-41c9-a51f-c5e83347c315,fitness.tennis,premium,260,260,high,low,7,namecheap,,,
 87554bac-9b97-430d-a47d-2f48a50dd2a0,fitness.schule,available,19.99,,high,low,7,name.com,,,
 a2ee2652-877c-4d3c-a4ba-bd7b0c3289a3,fitness.degree,premium,78,78,high,low,7,namecheap,,,
 62883404-a78d-4c5f-bdea-0283620de131,fitness.study,available,,,high,low,7,,,,
 c568d83a-b34d-45c7-892a-0807170e0e9c,fitness.courses,available,,,high,low,7,,,,
+c90b0ef1-26b7-4b06-97d5-8d375d23eccc,strength.media,resell,,,medium,low,8,"Sav.com, LLC - 16",27/02/2026 15:15,27/02/2027 15:15,19/09/2026 17:18
 579226b8-e811-47d6-b495-b9dd177f196f,fitness.rodeo,premium,52,10.4,high,low,7,namecheap,,,
+8f8c7698-0900-44d5-af3e-28206da2f7e9,strength.beer,available,1.98,43.98,medium,low,8,namecheap,,,19/09/2026 17:18
 a8881530-317e-4cc1-9d11-74fdc5dc3242,strength.energy,premium,118.8,118.8,medium,low,8,namesilo,,,19/09/2026 17:18
 e56f8028-a9c0-4a11-b159-3864dfaa2544,fitness.soccer,available,19.99,,high,low,7,name.com,,,
 b0b8501d-2d20-4fd4-af13-cf1322097120,fitness.football,premium,128.7,128.7,high,low,7,namecheap,,,
+7669148d-c44c-4996-964a-800af9a9d436,strength.fast,premium,53.92,53.92,medium,low,8,namesilo,,,19/09/2026 17:18
 f7baad34-49f9-4ec4-9936-810c0f6a1146,fitness.guru,available,,,high,low,7,,,,
+5f6848ad-1134-4a56-9a01-d517f6c380c6,strength.cooking,available,33.98,43.98,medium,low,8,namecheap,,,19/09/2026 17:18
+65f608d2-fe74-4a0a-b793-f25441433bc0,nutrition.coach,premium,854,854,low,low,9,namesilo,,,18/09/2026 07:53
 0bfd14ee-8ee8-48b5-99f3-e67e49160b25,fitness.bike,available,,,high,low,7,,,,
 11bb9b63-0f2b-4ac2-b350-b015bf1ba48b,fitness.team,resell,,,high,low,7,"GoDaddy.com, LLC",04/08/2023 04:38,04/08/2027 04:38,20/09/2026 11:39
 4dd1a9a7-6146-4031-9e1c-d1ddf9b5f77a,exercise.diet,available,104.99,114.99,medium,low,8,namesilo,,,19/09/2026 09:45
+2bf7c484-6f3e-4b1f-a857-86495f9ac6dd,strength.kitchen,available,10.99,64.99,medium,low,8,namesilo,,,19/09/2026 17:18
 2e7855be-84e7-4bf9-ab59-96b8b07be24f,fitness.surf,premium,520,31.2,high,low,7,namecheap,,,
 45259aca-e26b-4ecc-a2ed-bc662dabc5f4,fitness.food,premium,1300,2600,high,low,7,namecheap,,,
 73d90de7-3335-498d-a809-1d8c50dc98e7,fitness.airforce,premium,85.8,85.8,high,low,7,namecheap,,,
@@ -57,11 +73,12 @@ fa8852c9-7e96-4118-bce2-cd882fb04139,fitness.army,premium,128.7,128.7,high,low,7
 ffc4dcae-b19f-40a7-90fe-a8ddca12756f,fitness.club,resell,,,high,low,7,"GoDaddy.com, LLC",22/01/2026 17:00,22/01/2027 17:00,
 3070cc30-816c-4d8d-96f9-740913b0f159,fitness.ai,resell,,,high,low,7,"Spaceship, Inc.",20/04/2018 16:02,20/04/2028 16:02,
 edfa4933-236d-4e05-872b-9e9a60fc8bdf,fitness.services,premium,1040,1040,high,low,7,namecheap,,,
-2ba9fdb0-ff6e-4704-b550-b723ec4f5d32,fitness.solutions,resell,,,high,low,7,Porkbun LLC,27/08/2024 19:32,27/08/2026 19:32,
+2ba9fdb0-ff6e-4704-b550-b723ec4f5d32,fitness.solutions,resell,,,high,low,7,Atom.com Domains LLC,27/08/2024 19:32,27/08/2027 19:32,22/09/2026 18:18
 072e6b74-9712-4475-b24e-a4c201b50fbe,fitness.energy,resell,,,high,low,7,"Sav.com, LLC - 16",21/06/2024 15:15,21/06/2026 15:15,
 c3de2c99-3037-4a61-a9e0-2675d4446aec,fitness.ing,premium,1690,1690,high,low,7,namecheap,,,
 7e0b1e4b-2193-40d3-86ef-c1ddd6ea460f,fitness.tech,resell,,,high,low,7,Namify Domains Inc,16/02/2021 19:40,16/02/2029 23:59,
 97a19f08-b22c-42b2-b621-f3f094885082,exercise.im,available,,,high,low,8,,,,
+c2df2d4c-611e-4338-8d1a-75c87bed447b,strength.flowers,available,108.98,159.98,medium,low,8,namecheap,,,19/09/2026 17:18
 87c0256d-22f4-452c-a27e-553c39be35e7,fitness.solar,available,9.99,,high,low,7,name.com,,,
 39e9f181-6837-4649-9457-c2251ff849e5,fitness.beauty,premium,845,845,high,low,7,namecheap,,,
 62ddc9c3-411b-4877-9b14-9f914a572ede,fitness.ceo,premium,518.96,518.96,high,low,7,namecheap,,,
@@ -104,6 +121,7 @@ b8e584b5-d3f2-4e73-9638-1112c1cbbd36,fitness.works,resell,,,high,low,7,"Global D
 e1ad6fa6-7f1c-4f6f-a9eb-2b889a03248f,fitness.archi,available,24.99,,high,low,7,name.com,,,
 21c5b035-bb8c-4cd3-80b4-66177c6ca05e,exercise.fitness,premium,242,242,medium,low,8,namesilo,,,19/09/2026 09:45
 d17ab246-0dde-458f-8afc-10e16238282d,fitness.digital,resell,,,high,low,7,"GoDaddy.com, LLC",05/07/2016 21:26,05/07/2027 21:26,17/09/2026 17:22
+5f29e60e-8f12-4c35-91d0-a3b12936cf22,strength.vision,available,47.98,59.98,medium,low,8,namecheap,,,19/09/2026 17:18
 47b6663e-26c3-49a0-bd70-b07aebb98dc9,fitness.page,premium,1298.7,1298.7,high,low,7,namecheap,,,
 61ad1b11-fa8b-4dfd-869b-66f10ede47fe,fitness.onl,premium,162.5,325,high,low,7,namecheap,,,
 a14ec82f-15f2-45e9-aef9-683af2fc84da,fitness.website,premium,3250,6500,high,low,7,namecheap,,,
@@ -144,6 +162,7 @@ dcf81320-39cc-4259-a58e-5ed0f203278e,fitness.boston,premium,520,19.5,high,low,7,
 5899ddb1-ea8d-4e6d-b3bd-ae1a8a481ae7,fitness.berlin,resell,,,high,low,7,,18/03/2014 17:59,18/03/2027 17:59,
 ed23c5c6-3e16-4f9f-a410-9dde3e179c4c,fitness.osaka,available,,,high,low,7,,,,
 2f08a12e-2dfb-4ac8-9459-3bb216f50fda,fitness.sydney,premium,86.33,86.33,high,low,7,namecheap,,,
+eeb41d30-1b1c-4b0d-abfd-de7fe5b6973b,strength.mov,premium,167.7,167.7,medium,low,8,namecheap,,,19/09/2026 17:18
 17ae03ff-c116-4ef1-9468-74855a81d929,fitness.cyou,premium,143.65,574.6,high,low,7,namecheap,,,
 f16c802f-a4ec-4490-b435-696f6970b878,fitness.protection,available,1999.99,2049.99,high,low,7,namesilo,,,
 94daf64d-a51c-43b9-b5d1-864a2fff6cc1,fitness.band,premium,1300,1300,high,low,7,namecheap,,,
@@ -209,6 +228,7 @@ c3dd67b8-c4ca-44d2-8d6d-d4a3ddc375de,fitness.boo,premium,1298.7,1298.7,high,low,
 8b8bbe60-70fa-4cfc-a116-0c375a631163,fitness.cool,premium,260,260,high,low,7,namecheap,,,
 d29cbc56-5aeb-47a5-84af-8f132d57d650,fitness.fun,premium,1625,6500,high,low,7,namecheap,,,
 91d81dbb-8baf-4343-92e2-16c4aa4ba210,fitness.lol,premium,845,845,high,low,7,namecheap,,,
+2b2f81cc-cb51-4023-af33-ea658717750c,nutrition.equipment,available,29.98,32.98,low,low,9,namecheap,,,18/09/2026 07:53
 f09334ff-dc2b-47f7-8128-5b0ced75a62a,fitness.republican,available,5.99,28.99,high,low,7,namesilo,,,
 8a4ce7bc-cc47-436d-a50e-e19b3662a28d,fitness.irish,available,9.99,,high,low,7,name.com,,,
 f1e01a8c-c96e-4989-81b1-2cb5cd0ba4e0,fitness.photography,premium,520,520,high,low,7,namecheap,,,
@@ -294,6 +314,7 @@ b7718c12-f542-495c-a700-8333db764651,fitness.bar,premium,585,1170,high,low,7,nam
 61f2eced-614b-4e5f-889e-6df1e006315e,fitness.style,premium,38.94,38.94,high,low,7,namesilo,,,
 3b6ae51b-9ad0-40a2-a4b2-bc941b87139b,fitness.moda,premium,1040,1040,high,low,7,namecheap,,,
 e331e3cb-3e7d-4879-bd5d-d6c6bd3e9d14,fitness.rich,available,94.99,1999,high,low,7,namesilo,,,
+83890141-8402-4a99-9eb7-afeb0ffb6fc0,nutrition.autos,available,1.99,17.29,low,low,9,namesilo,,,18/09/2026 07:53
 2febaaae-93cf-4266-bf6d-2156ab53505c,fitness.coffee,available,23.99,,high,low,7,name.com,,,
 a131f485-fb21-4328-8865-0a868a068306,fitness.download,premium,130,32.5,high,low,7,namecheap,,,
 aa047c5d-b1d9-432e-a129-c517ab7d393f,fitness.dance,premium,1040,1040,high,low,7,namecheap,,,
@@ -359,37 +380,55 @@ abb1ca19-db93-4f79-a714-0e0aae04decf,fitness.new,available,549.99,,high,low,7,na
 bc668c29-504f-4f6c-95f8-5852abf4ec01,fitness.dentist,premium,260,260,high,low,7,namecheap,,,
 47bb32be-6b6d-483e-a626-b1da712ee04d,fitness.law,available,95.99,95.99,high,low,7,namesilo,,,
 883f2c6b-a2d0-4c19-af8f-1a9abd4c189e,fitness.christmas,available,49.98,,high,low,7,namecheap,,,
-49605e52-2113-4669-ab70-81b2f8d11e0c,fitness.group,resell,,,high,low,7,"Spaceship, Inc.",24/08/2022 13:15,24/08/2026 13:15,
+49605e52-2113-4669-ab70-81b2f8d11e0c,fitness.group,resell,,,high,low,7,"Spaceship, Inc.",24/08/2022 13:15,24/08/2027 13:15,22/09/2026 10:25
 3bb563c5-eb9f-4193-adca-cb1688a65849,fitness.press,premium,1950,3900,high,low,7,namecheap,,,
 59710b2f-30cf-4e16-8b75-648f506315b1,fitness.video,premium,1300,1300,high,low,7,namecheap,,,
+67637138-71b6-4af1-9cb3-cddc43a4c1d6,strength.sarl,available,6.99,6.99,medium,low,8,namesilo,,,19/09/2026 17:18
 42154e0c-74d4-4d82-b32d-c7f238803083,health.management,resell,,,medium,low,6,,,,19/09/2026 10:54
+044e1edc-24b9-4230-aacc-fae2e6d6f735,strength.cards,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 17:18
+a5f79273-e456-4db3-8785-a21623f52629,nutrition.flowers,available,64.99,114.99,low,low,9,namesilo,,,18/09/2026 07:53
+e8db03f6-6d10-414a-878d-0dd74bdb2f06,nutrition.domains,available,44.98,53.98,low,low,9,namecheap,,,18/09/2026 07:53
+da128f1c-5158-47ae-a361-c24b9dada534,nutrition.chat,premium,38.94,38.94,low,low,9,namesilo,,,18/09/2026 07:53
 b00c7c7a-8f57-4b95-8f24-48bc25a2f586,strength.tours,available,10.99,61.99,medium,low,8,namesilo,,,19/09/2026 17:18
 2d21f2ef-bd4c-4a7d-9bcd-52cb1c141acd,strength.asia,resell,,,medium,low,8,"NameCheap, Inc.",18/11/2025 15:49,18/11/2026 15:49,19/09/2026 17:18
 7e39bbba-6913-4bda-a6ab-573c4a2e1500,strength.money,available,16.99,35.99,medium,low,8,namesilo,,,19/09/2026 17:18
+e3c72390-963a-4b74-9325-eb2c99a5d961,nutrition.makeup,available,1.99,17.29,low,low,9,namesilo,,,18/09/2026 07:53
+ebfa48da-a424-40c5-aa72-7a9fcf4115a4,nutrition.international,available,12.99,31.49,low,low,9,namesilo,,,18/09/2026 07:53
 c6a3476b-87b7-494a-95f9-17230001ec7d,strength.pro,resell,,,medium,low,8,Porkbun LLC,11/06/2009 00:00,11/06/2027 00:00,19/09/2026 17:18
+8c82ecb2-d3ba-45a4-acd7-1a16e2349257,nutrition.travel,available,27.99,149.99,low,low,9,namesilo,,,18/09/2026 07:53
 1f80d5a5-ce43-43e5-83ca-a2bf824dcdd7,strength.legal,available,71.99,71.99,medium,low,8,namesilo,,,19/09/2026 17:18
 f206e1d5-048e-4d3f-8fd7-b3059b480fe8,strength.gmbh,available,45.99,45.99,medium,low,8,namesilo,,,19/09/2026 17:18
 26e6ab55-1077-468e-bb97-fb9e98878dc4,strength.rentals,available,10.99,44.49,medium,low,8,namesilo,,,19/09/2026 17:18
+b78d835e-1db3-4234-8d5e-07e3afd35dc0,nutrition.loan,available,5.25,6.25,low,low,9,namesilo,,,18/09/2026 07:53
+5e357ff8-3857-4517-9e6f-8c3fcd48dc36,nutrition.video,premium,242,242,low,low,9,namesilo,,,18/09/2026 07:53
 63f591fb-f9ff-4e47-b7ab-645bbfd95424,strength.accountants,available,117.99,117.99,medium,low,8,namesilo,,,19/09/2026 17:18
+1321c8b1-4192-4710-80e1-1b0e958e8c4c,nutrition.cooking,premium,242,29.5,medium,low,9,namesilo,,,18/09/2026 07:53
 89a64251-19d4-41e3-b22d-9b35e0873aaa,strength.tires,available,5.99,78.99,medium,low,8,namesilo,,,19/09/2026 17:18
+1bc8e09f-b140-47a4-ab64-d60805ce95a2,nutrition.rsvp,premium,323.7,323.7,low,low,9,namecheap,,,18/09/2026 07:53
+a62bcede-2589-4a7e-b45d-04a879fc66ad,nutrition.tires,available,5.99,78.99,low,low,9,namesilo,,,18/09/2026 07:53
+7c8b9925-1bb5-4157-aebc-d18fc5e017eb,nutrition.de,resell,,,low,low,9,,,,18/09/2026 07:53
+8fad983b-e90e-481e-9a6b-372e8eb6f800,nutrition.dating,available,12.98,86.98,low,low,9,namecheap,,,18/09/2026 07:53
 9d55ee3c-cb8d-44d1-9533-cee4bf7cd17c,strength.loans,available,20.99,116.99,medium,low,8,namesilo,,,19/09/2026 17:18
 d03c35a9-ca73-429b-a2e4-a1d20826e864,strength.theater,available,67.98,80.98,medium,low,8,namecheap,,,19/09/2026 17:18
 5c6f036d-1053-454b-bfd1-239f92f3ed52,strength.talk,premium,71.4,71.4,medium,low,8,namesilo,,,19/09/2026 17:18
 fa5e4bef-8104-4a23-acef-abce039cb67c,strength.sexy,available,2998,3298,medium,low,8,namecheap,,,19/09/2026 17:18
+a9b89d4e-e3b4-4458-bdaf-a32d44462324,nutrition.film,available,65.99,65.99,low,low,9,namesilo,,,18/09/2026 07:53
 70bbe5b0-dd14-4961-b44c-6cdc94099b59,strength.bar,premium,1152,1152,medium,low,8,namesilo,,,19/09/2026 17:18
 400839ff-56a3-4632-b032-f1261c0f6913,strength.dance,available,16.99,27.49,medium,low,8,namesilo,,,19/09/2026 17:18
 601a2180-f69a-4201-b8ce-c6ec60322475,gym.bike,premium,46.2,46.2,high,low,3,namecheap,,,
 a5da922f-631d-4a23-9b8d-af8cee102a77,strength.desi,available,19.98,22.98,medium,low,8,namecheap,,,19/09/2026 17:18
 e45be305-9a5d-43c1-9995-cec3ad11cbd9,gym.fitness,premium,1000,,high,low,3,name.com,,,
 c08b7ba2-4008-415b-82cc-3807e6615083,health.coach,resell,,,medium,low,6,"Go Australia Domains, LLC",08/03/2015 16:00,08/03/2027 16:00,19/09/2026 10:54
-0e8a148a-d136-4b41-acac-7d02a5eda660,healthcare.pics,resell,,,high,low,10,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59,
 a4aca77b-4a31-4bd1-a4ab-067945206178,strength.men,resell,,,medium,low,8,"NameSilo, LLC",21/10/2020 21:06,21/10/2027 21:06,19/09/2026 17:18
 32832340-8c93-46d7-a456-235bc20ba70a,health.living,premium,640,640,medium,low,6,namesilo,,,19/09/2026 10:54
 193f8aff-3137-4aad-8839-e3e3f40d7659,health.lifestyle,resell,,,medium,low,6,GoDaddy,16/11/2025 12:10,16/11/2026 12:10,19/09/2026 10:54
+91e9b47b-8bb8-4041-94dd-d6891fa8b242,nutrition.work,premium,65,13,low,low,9,namecheap,,,18/09/2026 07:53
+99cc7773-1504-45dc-be9c-eb29392f063f,nutrition.gives,available,14.99,23.99,low,low,9,namesilo,,,18/09/2026 07:53
 5df935bc-2a4a-4254-b88c-cfcaae9a3d80,health.yoga,resell,,,medium,low,6,"GoDaddy.com, LLC",26/08/2020 18:59,26/08/2027 18:59,19/09/2026 10:54
 634da989-d268-4a25-ba80-7c90f0b582b7,strength.college,available,17.99,59.99,medium,low,8,namesilo,,,19/09/2026 17:18
 f6a6d785-4e61-45ee-a65f-f15d6c366da7,strength.land,available,15.99,41.99,medium,low,8,namesilo,,,19/09/2026 17:18
 9153f930-6e40-45f9-8f23-2fd1d4692606,strength.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,19/09/2026 17:18
+3614c8f7-4506-40b7-8103-284a283f6e7a,nutrition.toys,available,17.99,64.99,low,low,9,namesilo,,,18/09/2026 07:53
 3159cbe5-5960-41e0-af87-432eeb5c4e19,nutrition.vision,premium,78.54,78.54,low,low,9,namesilo,,,18/09/2026 07:53
 57375e90-11fa-4e9c-883b-a7e3c3dfc2dd,strength.link,premium,448,448,medium,low,8,namesilo,,,19/09/2026 17:18
 2d6b63bf-1c5a-49b1-8ebf-b8393fa96913,strength.stream,premium,1107,116,medium,low,8,namesilo,,,19/09/2026 17:18
@@ -411,51 +450,72 @@ d483227b-5152-4ae4-8454-a27b42123a2f,strength.clothing,available,32.99,32.99,med
 98a8f8da-d716-44fa-88a3-85e8b21d6307,nutrition.codes,available,8.99,71.99,low,low,9,namesilo,,,18/09/2026 07:53
 cc35f081-b741-4bb3-8b06-6a83925903ab,health.hospital,resell,,,medium,low,6,"Spaceship, Inc.",20/06/2025 15:15,20/06/2027 15:15,19/09/2026 10:54
 cdb0a7a5-62af-4622-a6d8-9671dec46e5a,health.rehab,premium,242,242,medium,low,6,namesilo,,,19/09/2026 10:54
+6e2608ae-cd1c-4562-ba5b-bea419ff8b1b,massagetherapy.rehab,available,14.99,,high,low,15,name.com,,,
 8d7310e8-6134-45bd-80d4-6f4130b29db7,nutrition.shopping,resell,,,low,low,9,,,,18/09/2026 07:53
 d3fd801a-397b-4258-9dbd-c20c234ac455,strength.diy,premium,1107,1107,medium,low,8,namesilo,,,19/09/2026 17:18
+f27d3c40-e41e-436b-9ef4-b105e30e1c47,massagetherapy.show,available,17.99,,high,low,15,name.com,,,
+49827827-e818-486e-b10b-9838f5ef991e,massagetherapy.racing,available,11.99,11.99,high,low,15,namesilo,,,
 7be5085b-24fc-47e0-8ad7-5a4437a17410,nutrition.wiki,premium,302.5,302.5,low,low,9,namesilo,,,18/09/2026 07:53
+f55104ac-bfe2-4542-8feb-fd8f4d0a1d9f,massagetherapy.directory,available,7.99,,high,low,15,name.com,,,
 586e5cc8-8275-422e-9dde-3021550cfc65,nutrition.deals,available,39.99,39.99,low,low,9,namesilo,,,18/09/2026 07:53
+f272c742-cc4b-468e-99fe-ea5eecb47147,massagetherapy.network,available,7.99,,high,low,15,name.com,,,
+43016661-746e-46d8-8b80-130aa2006b11,massagetherapy.actor,available,19.99,,high,low,15,name.com,,,
 fb5196c0-446a-4f19-9c76-2b5c6f8d6950,strength.gratis,available,23.99,23.99,medium,low,8,namesilo,,,19/09/2026 17:18
 26e1cff4-96e5-4a94-a0eb-2f38105eb5c0,nutrition.living,premium,2660,2660,medium,low,9,namesilo,,,18/09/2026 07:53
 71be5a73-09b4-46eb-a482-622f16889067,nutrition.food,premium,2660,2660,medium,low,9,namesilo,,,18/09/2026 07:53
 477e0b99-d4e5-4f72-a927-b75564acb4b6,health.surgery,premium,260,260,medium,low,6,namecheap,,,19/09/2026 10:54
 bb7bc498-254d-42db-8441-904641e9cc1a,nutrition.photo,premium,116,116,low,low,9,namesilo,,,18/09/2026 07:53
+eb057174-6288-4986-b593-392c4ee74ef3,massagetherapy.doctor,available,14.99,,high,low,15,name.com,,,
 2a53d2a9-a4a0-441a-b2a0-6c94f0aad483,strength.haus,available,11.98,37.98,medium,low,8,namecheap,,,19/09/2026 17:18
 81dded22-b430-47df-95b2-84faa4e46ae9,nutrition.motorcycles,available,1.99,17.29,low,low,9,namesilo,,,18/09/2026 07:53
+d4b5e257-44fb-49b5-9f31-751fc0e49878,massagetherapy.game,available,309.99,329.99,high,low,15,namesilo,,,
 91c840af-7d0f-4ab0-aeb6-194c76e7eeae,strength.degree,available,54.98,66.98,medium,low,8,namecheap,,,19/09/2026 17:18
 5bbed86b-8a60-44b9-ab51-bbeab75eba52,nutrition.irish,available,7.49,22.49,low,low,9,namesilo,,,18/09/2026 07:53
 3ce19b96-7522-4234-a78e-45724f5436ae,exercise.run,resell,,,medium,low,8,"DNSPod, Inc.",27/06/2019 17:26,27/06/2027 17:26,19/09/2026 09:45
 544113e2-ee2b-468e-b8ef-c8a02b74ef19,health.bike,resell,,,medium,low,6,Edomains LLC,01/02/2017 16:55,01/02/2027 16:55,19/09/2026 10:54
 bd7a51c1-3917-47e8-8569-6a03a8e75c27,nutrition.tips,premium,512,512,low,low,9,namesilo,,,18/09/2026 07:53
 13ed2fdd-f98c-4993-9179-eb54a3b95791,strength.party,available,5.25,6.25,medium,low,8,namesilo,,,19/09/2026 17:18
+38b2cf36-9774-413e-bbad-940016a0d6e4,massagetherapy.photos,available,14.99,,high,low,15,name.com,,,
+044dd122-417d-4cd5-b7be-60a5d12f6509,center.ryukyu,available,22.98,,high,low,6,namecheap,,,
 b264bc24-f275-4a0b-a203-871ab6789ee4,strength.financial,available,23.99,58.99,medium,low,8,namesilo,,,19/09/2026 17:18
 e707a4ee-6be9-4661-bde1-c6184c4abf95,health.report,resell,,,medium,low,6,,,,19/09/2026 10:54
+071d0ea9-3480-4e6b-be3b-f67c4d9ff518,massagetherapy.diy,available,5.49,39.99,high,low,15,namesilo,,,
+ba25f04d-642d-4ba2-8082-ace86f7cc97d,massagetherapy.fail,available,14.99,,high,low,15,name.com,,,
 68f06c9f-5d22-4568-84e3-cd893d9c7b0b,health.pet,premium,3450,3450,medium,low,6,namesilo,,,19/09/2026 10:54
 957ab20b-62b6-46b5-95cb-c6d0f93790ad,health.clinic,resell,,,medium,low,6,"NameSilo, LLC",07/11/2017 23:24,07/11/2026 23:24,19/09/2026 10:54
 4c2c34fd-8ebf-40a8-b79c-b59fd75c18e3,strength.zip,premium,167.7,167.7,medium,low,8,namecheap,,,19/09/2026 17:18
 82314272-8c4b-4321-9a8a-dcf21b81bf0e,strength.digital,resell,,,medium,low,8,"Sav.com, LLC - 11",05/01/2025 15:15,05/01/2027 15:15,19/09/2026 17:18
 faae8a8d-7174-495a-8c65-ad5f643a1881,massagetherapy.diet,available,104.99,114.99,high,low,15,namesilo,,,
-7970ba16-29d5-44ce-b557-66b64feae3f8,gym.run,resell,,,high,low,3,"GoDaddy.com, LLC",20/08/2015 03:06,20/08/2027 03:06,21/09/2026 03:54
+80eb0d5a-0d6b-4e19-b435-6e14de4fef26,massagetherapy.consulting,available,26.99,,high,low,15,name.com,,,
+bb6a1339-c065-468f-9765-d7c50b24a966,massagetherapy.trade,available,5.25,6.25,high,low,15,namesilo,,,
+7970ba16-29d5-44ce-b557-66b64feae3f8,gym.run,resell,,,high,low,3,"GoDaddy.com, LLC",20/08/2015 03:06,20/08/2027 03:06,22/09/2026 19:34
 b4ba409d-d282-4aae-95fd-004a928a5c8a,nutrition.studio,resell,,,low,low,9,,,,18/09/2026 07:53
 9de80944-5d0b-4386-af24-91fbe517c16f,nutrition.nyc,premium,3450,29.5,low,low,9,namesilo,,,18/09/2026 07:53
 e84aa35e-c2d7-4acd-81ca-b4e6a4c46fa1,strength.horse,premium,52,32.5,medium,low,8,namecheap,,,19/09/2026 17:18
 f03b747c-c68c-40ff-b088-2298d0394c08,nutrition.boston,premium,47.2,21.24,low,low,9,namesilo,,,18/09/2026 07:53
 9b435a4f-e024-4645-869e-b73ffd395ffc,health.cricket,available,25.98,31.98,medium,low,6,namecheap,,,19/09/2026 10:54
+5e2904a6-57fe-4e33-adbb-dc993306f9e4,massagetherapy.lighting,available,14.99,,high,low,15,name.com,,,
 04fcb9d7-026b-43ff-b444-5ace01672943,strength.design,available,58.49,58.49,medium,low,8,namesilo,,,19/09/2026 17:18
 c213d431-126f-4ca3-b40a-4eefc8a20f98,gym.health,premium,6250,,high,low,3,name.com,,,
 f3533ede-aead-49a6-9c4f-2a16cb821c39,nutrition.express,premium,78.54,78.54,low,low,9,namesilo,,,18/09/2026 07:53
 603f6d27-1e8f-439e-b77e-792e04d14a92,nutrition.creditcard,available,144.99,144.99,low,low,9,namesilo,,,18/09/2026 07:53
+202e9be3-80d5-4438-9447-89b5c0627457,massagetherapy.ing,available,16.98,,high,low,15,namecheap,,,
+86b922ee-d408-4a60-a6fc-570ae31e769e,movement.shop,premium,312.5,,high,low,8,name.com,,,
 3258252e-e6fa-4db4-970c-e785a40de946,nutrition.camera,available,58.99,58.99,low,low,9,namesilo,,,18/09/2026 07:53
 4df36910-c276-4f4d-8c78-e06e9f36b672,health.racing,premium,116,116,medium,low,6,namesilo,,,19/09/2026 10:54
+a90cba57-b52c-403c-bfe0-98be4bbf092b,strengths.diet,available,104.99,114.99,medium,low,9,namesilo,,,18/09/2026 22:25
 39c436a3-7778-4e49-b9cd-f6a3ed50adcf,strength.page,premium,70.21,70.21,medium,low,8,namesilo,,,19/09/2026 17:18
 02f1e058-3427-4424-9fe6-b4fe69286748,strength.charity,available,14.99,23.99,medium,low,8,namesilo,,,19/09/2026 17:18
+ca430e1e-d5c4-41fa-a6da-7a46197f66cf,massagetherapy.menu,available,27.99,27.99,high,low,15,namesilo,,,
 b0a4b893-0546-4bd2-85c2-4c0aa58450d2,health.app,resell,,,medium,low,6,"GoDaddy.com, LLC",13/08/2019 16:55,13/08/2027 16:55,19/09/2026 10:54
 e94f1c46-8318-4e87-8115-0fccf95a5b52,nutrition.foo,premium,76.7,76.7,low,low,9,namecheap,,,18/09/2026 07:53
 047f2e4f-e7c0-4774-be1d-9ef2564221c9,strength.one,resell,,,medium,low,8,Dynadot Inc,14/02/2026 00:00,14/02/2027 00:00,19/09/2026 17:18
 b989b634-f2da-4dcc-be35-cd8e82723284,nutrition.moda,available,43.98,45.98,low,low,9,namecheap,,,18/09/2026 07:53
 469dd597-2b9e-4ba7-99c3-cbfa05046176,gym.healthcare,premium,123.75,,high,low,3,name.com,,,
+d290e588-fdf1-498d-8cbd-80fd3cbdaf1c,massagetherapy.farm,available,13.99,,high,low,15,name.com,,,
 83610bd0-34f6-4c8a-80f5-3f005c03aad2,strength.fishing,premium,96,29.5,medium,low,8,namesilo,,,19/09/2026 17:18
 857c860d-279b-4225-b1de-f424a467667d,health.hockey,available,59.99,59.99,medium,low,6,namesilo,,,19/09/2026 10:54
+dbe9a71a-bc96-4211-93b7-de9aadfc8ce2,track.ryukyu,available,22.98,,high,medium,5,namecheap,,,
 59d9f958-4c44-4766-8a54-1202aa0316b3,health.tennis,available,65.99,65.99,medium,low,6,namesilo,,,19/09/2026 10:54
 b2b31deb-76bf-4542-94bb-e6a562b59b6e,health.shiksha,resell,,,medium,low,6,PDR Ltd. d/b/a PublicDomainRegistry.com,08/08/2017 03:26,08/08/2027 03:26,19/09/2026 10:54
 bdeb3757-10bd-4246-bbf1-b4c869d01efd,health.salon,premium,118.8,118.8,medium,low,6,namesilo,,,19/09/2026 10:54
@@ -463,6 +523,7 @@ ec8c588e-315e-4260-bf01-83a14928ca0a,strength.bingo,available,53.99,53.99,medium
 c2b9be10-e77b-4dd4-b585-e38c67a1f1d2,strength.mba,available,11.98,49.98,medium,low,8,namecheap,,,19/09/2026 17:18
 1b2a6f8f-8af2-446a-84d2-a35e898d151f,health.hair,premium,2600,2600,medium,low,6,namecheap,,,19/09/2026 10:54
 984f0561-174c-4dd4-abf5-4a74cfe76a09,health.skin,premium,2660,2660,medium,low,6,namesilo,,,19/09/2026 10:54
+36b88cfe-58a9-40c9-ab15-36ead9826523,massagetherapy.reise,available,27.89,97.99,high,low,15,namesilo,,,
 48f53371-6e6b-4c43-98d4-c238b0be9054,health.schule,available,28.99,28.99,medium,low,6,namesilo,,,19/09/2026 10:54
 1e0e551b-0c90-4b1f-a6e2-f835b19befee,health.degree,premium,242,242,medium,low,6,namesilo,,,19/09/2026 10:54
 ec382696-70e7-4eb2-bb78-385dfd64a2dc,health.futbol,available,7.49,17.99,medium,low,6,namesilo,,,19/09/2026 10:54
@@ -473,15 +534,20 @@ c92de11d-fcba-41a9-bf35-a24215fb96ad,health.beauty,premium,2660,2660,medium,low,
 d19fa67e-84cb-436c-bd06-43ed9f4bc894,strength.poker,available,10.99,67.99,medium,low,8,namesilo,,,19/09/2026 17:18
 234cc680-8bdf-424f-9082-a1fd85eeeee2,strength.rip,available,23.49,23.49,medium,low,8,namesilo,,,19/09/2026 17:18
 ce96639c-0cfc-4099-b304-8ed7c6c5e406,nutrition.credit,available,11.49,104.99,low,low,9,namesilo,,,18/09/2026 07:53
+d963259a-d8d4-4e17-9a11-f958252ba63e,resort.mobile,premium,390,390,high,low,6,namecheap,,,18/09/2026 06:57
 4d6c47b1-227b-4794-80a1-679307112b66,nutrition.bot,resell,,,low,low,9,,,,18/09/2026 07:53
 28614aa0-35a9-44a7-ac48-fef1b24439e5,strength.diet,available,104.99,114.99,medium,low,8,namesilo,,,19/09/2026 17:18
 749bf534-5af9-4ab8-9cc7-128a77f61ca4,health.site,premium,6900,6900,medium,low,6,namesilo,,,19/09/2026 10:54
+e13102a2-0f58-4bd8-b4d4-bd0d37b98de2,workouts.cricket,available,23.59,23.59,low,low,8,namesilo,,,19/09/2026 22:42
 967b334f-b833-4bd8-bdf8-7ecb3652af45,nutrition.security,available,2070,2950,low,low,9,namecheap,,,18/09/2026 07:53
 9ce16683-d11d-4f86-8631-bcce6f11f154,health.guru,resell,,,medium,low,6,"Sav.com, LLC",02/04/2026 20:42,02/04/2027 20:42,19/09/2026 10:54
+9c1d7258-1427-44c9-846d-bd1236b8e18c,massage.ryukyu,available,24.99,,high,low,7,name.com,,,
+f71c4657-0631-4efa-a71c-7335f0e7279a,recovery.me,resell,,,medium,low,8,Dynadot Inc,19/09/2017 01:07,19/09/2027 01:07,08/09/2026 13:21
 b261f5b8-5c09-4a8c-8cd1-d9c68d70a36d,nutrition.financial,available,23.99,58.99,low,low,9,namesilo,,,18/09/2026 07:53
 a1e6a886-a97a-4d0c-a637-00016949d371,strength.band,available,20.99,31.49,medium,low,8,namesilo,,,19/09/2026 17:18
-8357a658-efe2-47be-b5d3-8bab1d4e805e,gym.yoga,resell,,,high,low,3,"GoDaddy.com, LLC",26/08/2020 19:26,26/08/2026 19:26,
+8357a658-efe2-47be-b5d3-8bab1d4e805e,gym.yoga,resell,,,high,low,3,"GoDaddy.com, LLC",26/08/2020 19:26,26/08/2027 19:26,22/09/2026 15:23
 df3cab80-6df4-4d92-8307-805a507aeefd,exercise.expert,premium,512,512,medium,low,8,namesilo,,,19/09/2026 09:45
+81458ce5-8ee5-4a83-b2db-0fced8ba4bb9,massagetherapy.vote,available,49.99,,high,low,15,name.com,,,
 0a7035a7-e6c1-470b-89ff-82f12ca63748,health.law,resell,,,medium,low,6,,,,19/09/2026 10:54
 8326d759-89ac-45e6-a12b-c8ac63013c81,strength.car,available,1999.99,2199,medium,low,8,namesilo,,,19/09/2026 17:18
 d5fd24e8-3f67-4e40-ba7a-18323697d2d8,exercise.coach,premium,242,242,medium,low,8,namesilo,,,19/09/2026 09:45
@@ -509,12 +575,14 @@ b3054089-9ee4-4242-b0e3-3584cd7a2494,health.ski,premium,118.8,118.8,medium,low,6
 efa85c36-346c-4e15-afc5-eb0f7a3162d3,nutrition.fashion,available,32.49,32.49,low,low,9,namesilo,,,18/09/2026 07:53
 3d506c08-d209-4d94-8d49-e6bca28cd40e,gym.vet,premium,123.75,,high,low,3,name.com,,,
 694a8d63-b2e0-45b6-8772-60a5ad8107af,gym.surgery,premium,82.5,,high,low,3,name.com,,,
+4d56ed49-647b-4ece-8359-b681290c7f74,proficiency.it,available,25.99,,high,low,11,name.com,,,
 57a1d54f-c7bf-484e-8018-c089e0b6f21a,massagetherapy.wedding,available,32.49,32.49,high,low,15,namesilo,,,
 9faeb450-d7b6-49a0-95db-c85335f85d3e,gym.cricket,premium,625,,high,low,3,name.com,,,
 fe1847a5-b4d7-495f-aace-4ceeacf067ea,massagetherapy.courses,available,2.19,38.99,high,low,15,namesilo,,,
 4995a57b-a06f-4583-bd43-4f7c3a37f054,gym.horse,premium,500,,high,low,3,name.com,,,
 9a0b91fa-f841-495b-8d3e-1501064b1391,gym.hiv,available,184.99,,high,low,3,name.com,,,
 61abfbe1-1f63-4adf-8f0d-2a1950cf19f7,massagetherapy.insure,available,9.99,,high,low,15,name.com,,,
+ef959350-03d9-44e8-b06d-90511d317daa,proficiency.channel,available,16.48,,high,low,11,namecheap,,,
 07a9fed9-809d-495a-acaa-325bb60b8fb4,gym.rehab,premium,250,,high,low,3,name.com,,,
 20ad94e2-29be-41e8-b8f2-321914a27962,nutrition.hiphop,available,25.98,33.98,low,low,9,namecheap,,,18/09/2026 07:53
 cd3c52bc-a164-4f3f-9a1e-4307bf1652b5,nutrition.pictures,available,15.49,15.49,low,low,9,namesilo,,,18/09/2026 07:53
@@ -544,6 +612,7 @@ f6ce360f-9304-4557-89a7-24f8a115023d,health.reise,premium,260,260,medium,low,6,n
 839264f8-bfea-4a3b-be88-557f86cba7ca,health.cooking,premium,242,29.5,medium,low,6,namesilo,,,19/09/2026 10:54
 17268df3-d72a-4824-8047-45b3103389d2,health.town,resell,,,medium,low,6,Dynadot Inc,23/03/2022 13:15,23/03/2027 13:15,19/09/2026 10:54
 33f97ebe-7756-4d82-9591-8cba673c22dc,health.country,available,2298,2450,medium,low,6,namecheap,,,19/09/2026 10:54
+5856a293-b37c-459d-8e62-a31674999cd9,swim.boutique,resell,,,high,low,4,"Spaceship, Inc.",22/02/2026 17:46,22/02/2027 17:46,
 0ad8df86-09c4-4389-82fb-6b3d9852c0c3,health.cleaning,premium,118.8,118.8,medium,low,6,namesilo,,,19/09/2026 10:54
 f0b12eaf-2dc7-4d01-942f-b3a288d73781,gym.courses,premium,625,,high,low,3,name.com,,,
 9f71aa0a-ab0b-4625-b75d-b4ccf20aa8d6,health.fishing,available,32.49,32.49,medium,low,6,namesilo,,,19/09/2026 10:54
@@ -554,10 +623,13 @@ c430f007-54a0-4c3f-bf07-abb5b2e5803c,health.tires,available,5.99,78.99,medium,lo
 460926c4-c029-4f5e-8154-f6a62d5d91ad,gym.rodeo,premium,100,,high,low,3,name.com,,,
 1adf5c32-671e-40ed-b1cd-93c3c5dd7be6,gym.football,available,19.99,,high,low,3,name.com,,,
 f42cbe8c-79e1-48f9-928b-1ee61846e987,gym.soccer,available,19.99,,high,low,3,name.com,,,
+5577a89c-a679-433b-93b7-a08e55f20402,aerobics.diet,available,104.99,114.99,medium,low,8,namesilo,,,17/09/2026 12:56
 54c3792e-8699-4d84-8d95-35f8f9f5a823,health.dad,premium,1298.7,1298.7,medium,low,6,namecheap,,,19/09/2026 10:54
 66b3b679-8dc2-4d9d-93bd-d76c8d989a6d,health.mom,premium,2660,2660,medium,low,6,namesilo,,,19/09/2026 10:54
 1a2e88db-bec3-4444-81cf-9c18e83b6601,health.family,premium,512,512,medium,low,6,namesilo,,,19/09/2026 10:54
 69f3f160-c842-4fcb-8354-0fd2dc2eca6d,massagetherapy.ac,available,34.99,47.99,high,low,15,namesilo,,,
+9be7d6ff-3c5e-4793-b5c1-8a479e9cbbba,workouts.luxury,available,49.99,,low,low,8,name.com,,,19/09/2026 22:42
+0510eb42-9720-42f1-a52b-b6c1b3a8c71c,workouts.gives,available,7.48,37.98,low,low,8,namecheap,,,19/09/2026 22:42
 276f8eb0-ce2c-4ad1-afc5-44c2e5d23db9,gym.clinic,premium,250,,high,low,3,name.com,,,
 bb1ecab9-7de1-4276-97d1-1cb21b6f8e6f,health.florist,available,32.99,32.99,medium,low,6,namesilo,,,19/09/2026 10:54
 48a96d86-6d29-48d7-873e-4c435d43c60b,health.flowers,available,64.99,114.99,medium,low,6,namesilo,,,19/09/2026 10:54
@@ -584,17 +656,20 @@ d403f99b-f177-4b4b-986c-79c678f7eb25,health.one,resell,,,medium,low,6,Dynadot In
 5d564b21-e435-497e-9fc5-3069ca0921bd,exercise.life,resell,,,medium,low,8,"Spaceship, Inc.",18/09/2024 15:15,18/09/2027 15:15,19/09/2026 09:45
 65aca995-276e-49f6-907c-7d85c77ada85,health.win,resell,,,medium,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",12/05/2016 03:19,11/05/2027 23:59,19/09/2026 10:54
 b6becba4-75fb-4631-8ce1-42e99a77acfa,strength.deal,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 17:18
+c554af6b-7215-4f82-bf89-7af6caf56469,fuel.cloud,resell,,,high,low,4,"Spaceship, Inc.",05/05/2026 17:06,05/05/2027 17:06,
 9837903e-0c68-4cf6-aaa7-37a114e35a72,health.foundation,resell,,,medium,low,6,"Spaceship, Inc.",17/02/2018 18:44,17/02/2027 18:44,19/09/2026 10:54
 64a14c57-feec-4b3f-af2a-b9ac289bcd9e,health.icu,resell,,,medium,low,6,"Spaceship, Inc.",31/05/2018 01:23,31/05/2027 23:59,19/09/2026 10:54
 9d556f20-4c5e-46c6-94e0-e0dc896ddb9e,health.catering,premium,118.8,118.8,medium,low,6,namesilo,,,19/09/2026 10:54
 3ece6f73-3f6f-4876-ab53-02f08da6acf8,health.charity,premium,242,242,medium,low,6,namesilo,,,19/09/2026 10:54
 f28b1f5b-6eea-4f67-a241-bebfc5d8e0ef,health.archi,available,19.99,103.99,medium,low,6,namesilo,,,19/09/2026 10:54
+1b5be4b9-6516-4053-93a7-830b49ebc251,workouts.golf,available,7.49,64.99,low,low,8,namesilo,,,19/09/2026 22:42
 a776ef27-e981-4be6-ad9b-e20cbe2c718e,health.voting,available,1398,1448,medium,low,6,namecheap,,,19/09/2026 10:54
 2172532a-df41-48e2-9aa4-b152e1ca0dc7,exercise.yoga,resell,,,medium,low,8,"GoDaddy.com, LLC",26/08/2020 19:20,26/08/2027 19:20,19/09/2026 09:45
 8ed47baf-9945-4717-8ab4-80c64c3a05c7,nutrition.town,available,8.99,36.49,low,low,9,namesilo,,,18/09/2026 07:53
 be297ea1-09dc-4f6b-b186-d59ad1c05112,strength.bayern,available,34.99,34.99,medium,low,8,namesilo,,,19/09/2026 17:18
 55671ec4-f785-40c7-8632-6aa7fad74de4,health.website,premium,3450,3450,medium,low,6,namesilo,,,19/09/2026 10:54
 2bd06876-f3db-4cef-a3bd-609b1841026e,health.page,premium,1278.72,1278.72,medium,low,6,namesilo,,,19/09/2026 10:54
+2563cc7a-7814-4597-8805-62ec431c1e3e,physical.vet,available,41.99,41.99,medium,low,8,namesilo,,,08/09/2026 15:48
 98d13e89-2b5f-411f-9a13-bc4392e2567e,health.pw,premium,3450,3450,medium,low,6,namesilo,,,19/09/2026 10:54
 23d536d4-c645-4b11-8c7e-6b27a329ad35,health.engineer,premium,1107,1107,medium,low,6,namesilo,,,19/09/2026 10:54
 530b8287-775d-4e18-89a6-9d18158cfb71,health.review,premium,3450,116,medium,low,6,namesilo,,,19/09/2026 10:54
@@ -614,6 +689,7 @@ d0b962e9-1fcc-4b9d-ac58-7947f9ab0516,health.productions,premium,118.8,118.8,medi
 7efb7557-1c97-4130-b490-8d6763404bc7,health.moda,available,41.99,41.99,medium,low,6,namesilo,,,19/09/2026 10:54
 92772ca5-3f7c-4fd6-8c09-ab92266f3644,health.sh,resell,,,medium,low,6,"GoDaddy.com, LLC",24/05/2022 17:16,24/05/2028 17:16,19/09/2026 10:54
 718c17e4-f27b-46f2-a520-61714e600811,health.bz,resell,,,medium,low,6,"GoDaddy.com, LLC",12/09/2022 01:08,12/09/2027 01:08,19/09/2026 10:54
+d65b0545-2f1e-4c1c-bd37-e70f19903665,workouts.beer,available,2.19,32.49,low,low,8,namesilo,,,19/09/2026 22:42
 430888b5-974a-4022-8a64-d1957600cd90,health.berlin,premium,1296.1,1296.1,medium,low,6,namecheap,,,19/09/2026 10:54
 81a50238-50bf-4398-9d7c-643c33347bad,health.melbourne,available,58,58,medium,low,6,namesilo,,,19/09/2026 10:54
 41c5c75f-7f0b-4d82-b0cc-fc08785637e6,health.hamburg,available,69.98,73.98,medium,low,6,namecheap,,,19/09/2026 10:54
@@ -669,6 +745,7 @@ a7b7af93-4a35-4d87-85db-c6f976a8e58d,health.photos,available,8.98,40.98,medium,l
 eba99487-5d2e-49bf-9470-f21d24bf3fbc,health.pictures,resell,,,medium,low,6,"Sav.com, LLC - 20",15/12/2025 15:15,15/12/2026 15:15,19/09/2026 10:54
 b1e13ff1-53fb-41bc-aa6d-84fc14845b19,health.photo,premium,116,116,medium,low,6,namesilo,,,19/09/2026 10:54
 ac47f6da-38ed-4835-a5df-80e2deb1cbe2,health.gallery,premium,118.8,118.8,medium,low,6,namesilo,,,19/09/2026 10:54
+da119a23-5257-4563-9e5f-0cbe999c10f4,persistence.hospital,available,57.99,57.99,high,low,11,namesilo,,,
 a9b15ce2-c420-408c-8c7b-4080784e1c57,health.fan,premium,260,260,medium,low,6,namecheap,,,19/09/2026 10:54
 2fa6b74b-aec8-4c4c-b1d6-c0b040a34a63,health.fans,premium,640,640,medium,low,6,namesilo,,,19/09/2026 10:54
 03363ca8-33e2-45ab-83e4-f52180a80bcb,health.link,resell,,,medium,low,6,"Spaceship, Inc.",27/07/2017 02:47,27/07/2027 02:47,19/09/2026 10:54
@@ -694,6 +771,7 @@ d49fe5b3-9926-4f40-bb4f-546f8644b0fa,health.house,resell,,,medium,low,6,"Spacesh
 b4933f83-bf3d-40e1-b3b9-2bca6e9552a7,gym.food,premium,980,1400,high,low,3,namecheap,,,
 14ba0375-95d6-4e1f-b9dd-8a364f5d59a0,gym.salon,available,14.99,,high,low,3,name.com,,,
 cfac315d-ce6d-47a6-9bee-b7e686d76d86,health.host,premium,325,650,medium,low,6,namecheap,,,19/09/2026 10:54
+5cd729e0-007f-4ff7-be68-5b3ca7f63362,advisor.ryukyu,available,22.98,,high,low,7,namecheap,,,
 51b7741d-ccd7-47e9-be29-5560bac37dbf,health.hosting,premium,1729,1729,medium,low,6,namesilo,,,19/09/2026 10:54
 6745bf18-f9a4-4d94-ab88-162dc75127b7,health.makeup,premium,2600,2600,medium,low,6,namecheap,,,19/09/2026 10:54
 18ee9dd5-3f3b-47b1-ae9a-2f02819fb06a,health.black,resell,,,medium,low,6,Porkbun LLC,22/06/2026 23:44,22/06/2027 23:44,19/09/2026 10:54
@@ -703,7 +781,10 @@ cfac315d-ce6d-47a6-9bee-b7e686d76d86,health.host,premium,325,650,medium,low,6,na
 4af3b1ac-40a8-4926-b4af-ab20c6270ba3,health.world,resell,,,medium,low,6,Dynadot Inc,11/01/2015 16:00,11/01/2027 16:00,19/09/2026 10:54
 29fe3fbd-73be-4994-ab40-8d201126daa3,health.global,resell,,,medium,low,6,"Sav.com, LLC - 7",09/11/2024 15:15,09/11/2026 15:15,19/09/2026 10:54
 add02dc2-85a5-47a2-9ee6-f39afe82c748,health.shoes,premium,512,512,medium,low,6,namesilo,,,19/09/2026 10:54
+b874bc21-802b-4925-9688-af8f10dd8df5,recovery.kim,available,5.98,32.98,medium,low,8,namecheap,,,08/09/2026 13:21
+fc77f317-6814-4f47-90b5-6b111ed86cfa,mindful.living,premium,1820,2600,medium,low,7,namecheap,,,24/08/2026 23:36
 cc70f323-fe73-4ab5-a983-adb88885c351,health.wedding,premium,47.2,29.5,medium,low,6,namesilo,,,19/09/2026 10:54
+119bad5c-2947-4808-8730-23b664dd0804,persistence.services,available,15.99,,high,low,11,name.com,,,
 ade639f5-d7e8-4284-9350-2be9a5fd1cee,health.bingo,resell,,,medium,low,6,"Sav.com, LLC - 18",07/12/2025 15:15,07/12/2026 15:15,19/09/2026 10:54
 773a2814-de91-4fe6-9ed2-32b1acab0c13,health.dating,available,20.99,64.99,medium,low,6,namesilo,,,19/09/2026 10:54
 5ad93cba-adfb-4c3e-ad55-d3ab7da08f58,health.date,premium,384,53.92,medium,low,6,namesilo,,,19/09/2026 10:54
@@ -752,6 +833,7 @@ b0f9cd2b-746d-47af-881d-729081fe485b,health.beer,resell,,,medium,low,6,Alibaba C
 0798c07e-c14b-4683-af3d-7385ce6c8522,strength.cc,resell,,,medium,low,8,Dynadot Inc,03/05/2024 08:03,03/05/2027 08:03,19/09/2026 17:18
 749ae055-b8e2-4c69-9df3-24b73211674f,health.faith,premium,1300,130,medium,low,6,namecheap,,,19/09/2026 10:54
 a9997889-35a0-4dfa-937a-546b0ca418cf,health.church,resell,,,medium,low,6,"GoDaddy.com, LLC",16/02/2024 09:12,16/02/2027 09:12,19/09/2026 10:54
+29c39b90-2dd3-4bad-80a2-a7b1f880743d,workouts.plumbing,available,72.99,72.99,low,low,8,namesilo,,,19/09/2026 22:42
 d9b68f71-5fac-4b12-b239-f54721e45bb1,health.hot,premium,116,116,medium,low,6,namesilo,,,19/09/2026 10:54
 388e321a-781f-4e75-b321-a57fe6e1232a,gym.skin,premium,812.5,,high,low,3,name.com,,,
 d7516679-8f59-4b2c-be59-40b6ebe27868,gym.hair,premium,812.5,,high,low,3,name.com,,,
@@ -801,21 +883,26 @@ f39ae48f-6342-4533-8f29-58f7ba718935,health.video,premium,3450,3450,medium,low,6
 aea2050f-1b5a-4f38-b5cb-aa927db86ad7,health.studio,premium,1107,1107,medium,low,6,namesilo,,,19/09/2026 10:54
 c2b0f730-6780-4056-b95a-12765e12b567,massagetherapy.global,available,59.99,,high,low,15,name.com,,,
 f998b4fa-f76b-4283-b057-c5014e553864,massagetherapy.im,available,12.98,,high,low,15,namecheap,,,
+c93525c8-d961-425f-9e45-6b68bf3ae011,workouts.supplies,available,24.99,24.99,low,low,8,namesilo,,,19/09/2026 22:42
 e4b4fa6c-d9a6-4134-9e31-4d17f7692c99,gym.services,premium,46.2,92.4,high,low,3,namecheap,,,
 3af9e3b6-48a0-4ce3-a274-e8e4a6601607,gym.solutions,premium,500,,high,low,3,name.com,,,
 9a772f4b-c98f-4fcf-bc44-ae2e5cd73dfa,gym.energy,resell,,,high,low,3,"GoDaddy.com, LLC",06/04/2025 18:23,06/04/2027 18:23,
 b908fca7-6b94-4311-8762-095cb5349793,gym.ing,premium,1625,,high,low,3,name.com,,,
 a4c49f1c-3590-4946-a679-adbfd19eb5cd,gym.at,available,,,high,low,3,,,,
+7b9bc938-5c32-4635-a3a6-e75f64569e38,endure.lifestyle,available,1.8,48.98,medium,low,6,namecheap,,,11/08/2026 02:41
 fe71ae4a-0476-471c-a688-99bfe1ccda4f,gym.tech,premium,781.25,3125,high,low,3,name.com,,,
 8246a6c2-f0d9-4dd9-aa3a-3455a0a14ea0,massagetherapy.ceo,available,10.19,109.99,high,low,15,namesilo,,,
 9f743851-fe6d-41b8-849b-c45c603457bd,gym.co,resell,,,high,low,3,Dynadot Inc,25/02/2010 01:11,24/02/2027 23:59,
 1b72a0e5-41df-40f5-ba9c-10e423207bb2,strength.condos,available,58.99,58.99,medium,low,8,namesilo,,,19/09/2026 17:18
+9a721a8c-6ae7-4f10-98eb-d288fe8986ea,physical.sarl,available,6.98,8.98,medium,low,8,namecheap,,,08/09/2026 15:48
 aca07bd2-1629-4622-871c-ed2b5f0b3178,massagetherapy.forex,available,19.99,,high,low,15,name.com,,,
 ebf17afa-2814-4d96-b2ad-3e3d6427f1df,gym.solar,available,9.99,,high,low,3,name.com,,,
 9b4d78f6-0d30-464f-80c7-9e635b9868e5,gym.beauty,premium,812.5,,high,low,3,name.com,,,
 d827e1a5-b82f-44a6-af89-4b005faacc47,gym.sbs,premium,309.4,618.8,high,low,3,namecheap,,,
 720119d9-4e9a-4238-bbd7-ec6777cde348,gym.cloud,premium,13000,13000,high,low,3,namecheap,,,
 e5081f1a-667f-47c3-9008-b27e666492ec,gym.tires,available,14.99,,high,low,3,name.com,,,
+778c8cfe-4295-4e86-8211-39cd7143e86d,physical.qpon,available,2.19,11.49,medium,low,8,namesilo,,,08/09/2026 15:48
+9691b740-a74c-4fba-a400-a9d17e01c3ee,persistence.discount,available,7.99,,high,low,11,name.com,,,
 79916f5e-0460-4907-be5f-5d09d879f520,exercise.men,resell,,,medium,low,8,Dynadot Inc,05/06/2017 22:21,05/06/2027 22:21,19/09/2026 09:45
 c6989b4c-a5f5-4679-810f-1df27587bb5a,strength.care,resell,,,medium,low,8,"Spaceship, Inc.",16/02/2026 23:12,16/02/2027 23:12,19/09/2026 17:18
 47509090-4e86-413d-b3dc-fe3282eae689,gym.family,premium,123.75,,high,low,3,name.com,,,
@@ -860,11 +947,13 @@ dc3762d0-f534-46c8-af58-107bc3226ffe,gym.engineer,available,13.99,,high,low,3,na
 6f49cbce-cb26-4965-9c2b-38119d685618,gym.engineering,available,11.99,,high,low,3,name.com,,,
 d39c6925-26ae-4e21-bd0a-c65747fff48a,gym.site,premium,1562.5,6250,high,low,3,name.com,,,
 2cb9fb5a-e14f-4c6b-81a1-980f12fbc14b,gym.online,premium,3125,12500,high,low,3,name.com,,,
+466af12d-e758-4c77-84fb-bc328c586662,boxing.ryukyu,available,22.98,,high,low,6,namecheap,,,
 dbce20dc-d54c-4d40-956f-00bafbb07afe,gym.earth,resell,,,high,low,3,"Sav.com, LLC - 5",27/06/2024 00:00,27/06/2026 00:00,
 3ac21c43-6145-4dc9-be32-4f7877e97037,gym.green,premium,1875,,high,low,3,name.com,,,
 17e5529b-a2f4-4e94-9aa3-21167965f3db,gym.organic,available,19.99,,high,low,3,name.com,,,
 af3f860a-713f-4de7-911b-1ae1dfbed6ad,gym.glass,available,77.99,,high,low,3,name.com,,,
 3ba670e3-24e8-4652-a9be-0e810d393b2c,gym.plumbing,available,14.99,,high,low,3,name.com,,,
+345a91e3-9e98-47e7-a6c4-04cdcc6c0c69,harmony.beauty,resell,,,high,low,7,Dynadot Inc,04/03/2021 16:05,04/03/2027 23:59,19/09/2026 19:53
 78244f3e-739f-4452-9751-5dcf39ee0256,gym.equipment,resell,,,high,low,3,"Spaceship, Inc.",12/08/2015 13:27,12/08/2027 13:27,
 7214828f-240e-4a70-9538-0204406e29e8,gym.supply,resell,,,high,low,3,Porkbun LLC,01/11/2020 18:19,01/11/2026 18:19,
 019a881a-3b03-426e-8289-05fa230832bf,gym.phd,premium,411.25,,high,low,3,name.com,,,
@@ -875,6 +964,7 @@ a9b48a43-e266-441f-b434-dd657ed23c77,gym.security,available,2950,,high,low,3,nam
 347358c5-8516-4cbd-b14a-035a88ecca9a,gym.menu,available,,,high,low,3,,,,
 89847d2b-b498-4b41-8010-de36ec91b0c1,gym.restaurant,premium,82.5,,high,low,3,name.com,,,
 f2bc062d-995a-4445-9427-dfd43d7fd79d,gym.kids,premium,375,,high,low,3,name.com,,,
+e64ab103-d6fb-44a8-9e5e-9f0dac9820f7,workouts.clothing,available,32.99,32.99,low,low,8,namesilo,,,19/09/2026 22:42
 606fe848-1b7f-44d2-9380-9a084a3d5f95,gym.im,available,,,high,low,3,,,,
 884afbdd-af38-477b-9fc6-15bc5e385983,gym.cc,resell,,,high,low,3,"eName Technology Co., Ltd.",16/07/2002 16:29,16/07/2027 16:29,
 19bdd607-0e63-4dfa-a481-517c547274ef,gym.to,resell,,,high,low,3,NAMECHEAP,18/03/2024 12:40,27/02/2027 00:01,
@@ -909,93 +999,3 @@ b58f46db-5901-4495-b590-96ffed4b25e7,gym.kim,premium,1250,,high,low,3,name.com,,
 bcd9458b-18e8-4baf-9fc0-2e26e15cbf60,gym.enterprises,available,5.99,,high,low,3,name.com,,,
 48dcf057-31bd-4c88-8e37-4f0b828cddfc,gym.limited,premium,123.75,,high,low,3,name.com,,,
 c7dea1a4-2608-4cdc-a5d1-eb7af88bb948,gym.holdings,available,80.99,,high,low,3,name.com,,,
-38063875-9993-4ddc-b5eb-0f7dc99e001a,gym.sarl,premium,41.25,,high,low,3,name.com,,,
-a8c04dae-6df7-4e8c-aa07-e2c5de7e9b28,gym.llc,premium,1875,,high,low,3,name.com,,,
-75c36624-beee-4cd8-8d0e-e39fbc356663,gym.ltd,resell,,,high,low,3,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/09/2017 23:10,03/09/2026 23:10,
-21d76ba3-d331-4130-b643-f3c4cd53c2a4,gym.inc,premium,2170,2800,high,low,3,namecheap,,,
-2eef8531-8b00-479a-b831-e11189e61b1f,gym.industries,premium,82.5,,high,low,3,name.com,,,
-206219f7-0b0a-48cc-af16-e6a85fb2c4f7,gym.gmbh,available,47.99,,high,low,3,name.com,,,
-087da063-0bdc-4e21-bf9d-5d92878d40c0,gym.toys,premium,123.75,,high,low,3,name.com,,,
-a812d2fc-df00-49d8-8b20-c324d6eaeb4c,gym.finance,premium,123.75,,high,low,3,name.com,,,
-989e33be-ca99-441e-831a-9cbe998ef284,gym.cash,premium,123.75,,high,low,3,name.com,,,
-3bea7352-28c3-47cf-a973-d84557b21fac,gym.financial,premium,123.75,,high,low,3,name.com,,,
-b12aaae2-f403-460c-9b33-e1dfd8ef971f,gym.money,resell,,,high,low,3,"NameCheap, Inc.",19/02/2026 23:35,19/02/2027 23:35,
-1cecb2c3-57d8-4fc0-9583-588b4555c771,gym.loan,premium,625,,high,low,3,name.com,,,
-5266c4cc-29d3-4c1a-a0d8-31f5a3b810c2,gym.investments,premium,138.6,138.6,high,low,3,namecheap,,,
-b9757b02-ad34-473d-8c17-80269bb7b208,gym.loans,available,19.99,,high,low,3,name.com,,,
-23e13801-a26f-49ee-a450-1d3675c1ffcc,gym.game,premium,1625,,high,low,3,name.com,,,
-1cf0e531-c718-40ae-8a66-4fddaedd447b,gym.juegos,available,478.98,,high,low,3,namecheap,,,
-fac8ec35-183f-448c-8218-0c0bb04f563c,gym.autos,premium,812.5,,high,low,3,name.com,,,
-9464bb38-28f8-4e2a-a4c2-b54cb57dcf71,gym.auto,available,2950,,high,low,3,namecheap,,,
-4f19f74c-3a3d-45f4-a309-ce82d32f7401,gym.motorcycles,premium,812.5,,high,low,3,name.com,,,
-9d8dd53b-9c97-4621-9919-58ce41bce41e,gym.car,available,2400,,high,low,3,namecheap,,,
-cd86535b-fc77-485d-a13d-569e955e42b3,gym.cars,available,2950,,high,low,3,namecheap,,,
-8e4e837e-c33a-46af-a827-312c3410f56d,gym.dealer,premium,2170,2800,high,low,3,namecheap,,,
-b2a4f8e8-13af-49fa-97d2-aa28b20c9e3e,gym.storage,available,799,,high,low,3,name.com,,,
-84852f6d-68d3-4d98-b47e-bd7010fe312b,gym.college,premium,625,,high,low,3,name.com,,,
-888d6655-6224-4ea0-a6e9-98478bb5543c,gym.cleaning,premium,123.75,,high,low,3,name.com,,,
-b9a6b1a5-cfac-4962-85ee-0bea92fe0d83,gym.studio,premium,69.3,138.6,high,low,3,namecheap,,,
-54135b1c-6f47-43d5-bdc2-f734d8f6124f,exercise.vet,available,43.98,52.98,medium,low,8,namecheap,,,19/09/2026 09:45
-a0c1bfd4-4ff6-4951-99a1-81d6c8ec6eef,gym.how,premium,223.75,,high,low,3,name.com,,,
-becfb7ef-8f02-45ca-8e30-1c23ab4547b6,gym.tax,premium,123.75,,high,low,3,name.com,,,
-50f48375-2e36-4c57-a81a-81010aef8937,gym.locker,premium,31250,,high,low,3,name.com,,,
-eb6e36ae-b48d-4253-ba5e-0583505115a2,gym.fishing,premium,50,,high,low,3,name.com,,,
-3d96aae7-1b65-4f4b-ac2e-8ae2240f5589,gym.lease,premium,123.75,,high,low,3,name.com,,,
-15c39c45-0fea-4a7b-998d-1d238cfc3099,gym.ac,available,,,high,low,3,,,,
-ca9b329c-d920-484d-8aa1-794f58493ac5,gym.lighting,premium,250,,high,low,3,name.com,,,
-af6702a5-18ea-4835-b10e-59c24f6056c9,nutrition.republican,available,7.49,28.99,low,low,9,namesilo,,,18/09/2026 07:53
-ac4c7134-6827-4496-ab93-8069a61aec2c,gym.party,premium,625,,high,low,3,name.com,,,
-c92fbf5f-389b-4d17-8e56-a5236b47dd0c,gym.tickets,available,399.99,,high,low,3,name.com,,,
-bb7c400c-0080-4b1f-941e-0bff732da1de,gym.rsvp,premium,311.25,,high,low,3,name.com,,,
-5b163dad-24a4-4b15-9d1d-21b0ce489fe9,gym.movie,available,69.99,,high,low,3,name.com,,,
-87096086-bb93-4ed1-a587-505aa7ce4fcc,gym.film,premium,625,,high,low,3,name.com,,,
-ede377d4-b95a-42f2-ae26-8ecd46a40966,gym.mov,premium,623.75,,high,low,3,name.com,,,
-566d5956-84d0-475a-a0e1-d8d37dd386db,gym.democrat,available,9.99,,high,low,3,name.com,,,
-88c81c88-9d0a-4288-bb4d-dc2e86c9494d,gym.nexus,premium,623.75,,high,low,3,name.com,,,
-413a2c13-c333-4e74-95d6-f39ee86396d2,gym.lgbt,premium,2500,,high,low,3,name.com,,,
-af0042b7-24fb-44ac-aad5-9246f44c999f,gym.gay,premium,2500,,high,low,3,name.com,,,
-8ba17657-aed7-4263-93ac-c84dbe03e21c,gym.fast,premium,625,,high,low,3,name.com,,,
-b4a794a0-3588-42de-853d-726900d1a4a2,gym.delivery,premium,123.75,,high,low,3,name.com,,,
-738f8e6e-3e93-4907-a57f-da47269091f9,gym.lol,premium,778.7,,high,low,3,name.com,,,
-5ab53f9f-15cd-44f4-9e20-02bb7ec6d594,gym.fun,premium,1562.5,,high,low,3,name.com,,,
-440751ee-1357-482a-9a89-7aa9d1a8e5fc,gym.boo,premium,311.25,,high,low,3,name.com,,,
-3598b699-26aa-4692-aa52-2f8c798eab51,gym.cool,resell,,,high,low,3,Squarespace Domains II LLC,01/03/2021 20:29,01/03/2027 20:29,
-1fc397db-a2fe-428b-af27-4bd66933d8fb,gym.monster,premium,625,,high,low,3,name.com,,,
-af78c64c-885e-4548-a296-54367bdde732,gym.republican,available,5.99,,high,low,3,name.com,,,
-35de5c80-f889-4edf-8988-11fb6a5a7e14,gym.irish,available,9.99,,high,low,3,name.com,,,
-8cf71f0d-bf51-4365-88b7-76bf49b64af6,gym.photo,premium,125,,high,low,3,name.com,,,
-e69d25e1-b9eb-44e9-bccd-74abc564707d,gym.graphics,premium,123.75,,high,low,3,name.com,,,
-eb4b57f0-5d9f-4935-b5db-d0cfed1d747b,gym.gallery,premium,123.75,,high,low,3,name.com,,,
-5a798ad8-1afe-47da-9cef-a03187005ed0,gym.photography,premium,28,28,high,low,3,namecheap,,,
-e81b175d-4f86-4452-b0be-f26ed4c71647,gym.fan,premium,123.75,,high,low,3,name.com,,,
-605ecb42-6fcc-453c-b7d2-d6bf97eaafc7,gym.fans,premium,420,420,high,low,3,namecheap,,,
-cb57731b-4ff0-4d76-8285-1104ef453ae4,gym.link,premium,1575,2100,high,low,3,namecheap,,,
-e552deb3-5230-4e65-9a60-c6f3963c0fc5,gym.claims,available,19.99,,high,low,3,name.com,,,
-689e567e-2eb8-41b6-9edb-e198f056d180,gym.tips,premium,500,,high,low,3,name.com,,,
-d683973e-4a08-4954-b0c4-1ca69f5473f9,gym.fyi,resell,,,high,low,3,"GoDaddy.com, LLC",02/11/2024 23:28,02/11/2026 23:28,
-bdb1470b-8c5f-439e-9d1b-20775f2e3aed,gym.guide,premium,250,,high,low,3,name.com,,,
-48c1ceaa-f01b-4963-959c-c327db2b1ef7,gym.so,resell,,,high,low,3,Dynadot LLC,04/09/2021 09:31,04/09/2025 09:31,
-7a92d83c-7e27-49ad-8ad1-f3d416ef75e3,nutrition.school,resell,,,low,low,9,,,,18/09/2026 07:53
-1d7d1869-b013-4633-b90a-aeaee6cdddc4,gym.voting,available,1448,,high,low,3,namecheap,,,
-b9a47cb2-ed01-4444-963b-a28eb5b93b74,gym.vote,available,49.99,,high,low,3,name.com,,,
-cb58fa2a-8f87-4667-a657-0ef207c1c5f7,gym.voto,available,19.99,,high,low,3,name.com,,,
-c4b15a40-8507-4b86-b051-95542aee7400,gym.properties,premium,123.75,,high,low,3,name.com,,,
-0e2198ed-8c97-49ca-8ed1-fa511adeec74,gym.immo,available,14.99,,high,low,3,name.com,,,
-f24f832e-b115-459b-851f-d044df725789,gym.maison,available,19.99,,high,low,3,name.com,,,
-108b8823-0291-4c46-bf55-fccfdb471d8e,gym.property,available,,,high,low,3,,,,
-8ba193f0-3f4c-43ac-bae4-5d3cf9677342,gym.rent,premium,625,,high,low,3,name.com,,,
-a2fccbb8-79d4-4b1d-947b-2c3c37e4e371,gym.casa,premium,100,,high,low,3,name.com,,,
-297bd31d-93e0-48c9-880c-d7ffcb1454b1,gym.estate,available,14.99,,high,low,3,name.com,,,
-e380a42a-904a-4722-8a27-8aa8bf890420,gym.condos,available,71.99,,high,low,3,name.com,,,
-8bad3dc1-715b-400e-8300-322fca915914,gym.immobilien,available,14.99,,high,low,3,name.com,,,
-c9fb7547-c7b1-4b53-baf1-bf4ff93ab631,gym.villas,available,19.99,,high,low,3,name.com,,,
-9dcbfe0b-6d36-4520-8b67-add8b5d7e254,gym.homes,premium,812.5,,high,low,3,name.com,,,
-eb39d85e-0e88-4af9-bdb1-bdf1e9f90a0e,gym.realty,available,179.99,,high,low,3,name.com,,,
-718e2181-849d-407c-8f13-9e5e45bebdcc,gym.apartments,available,19.99,,high,low,3,name.com,,,
-a31521b5-63af-4916-9ec0-3d871f43632d,nutrition.plumbing,available,72.99,72.99,low,low,9,namesilo,,,18/09/2026 07:53
-8c44fa64-d497-4ecc-a6bc-30984bd2c230,gym.ink,resell,,,high,low,3,"Spaceship, Inc.",28/08/2025 23:27,28/08/2026 23:27,
-1a6f0c9a-0452-4bb5-9f82-06dfc17f3137,gym.host,premium,625,,high,low,3,name.com,,,
-e5db3142-e7e7-4f2f-91f2-7b4abdf7b582,gym.hosting,available,398,,high,low,3,namecheap,,,
-019339c4-d829-4c70-8bfa-284c0d5131f1,gym.makeup,premium,812.5,,high,low,3,name.com,,,
-f0ce8379-46ed-4ad2-8bb0-306783f1c61e,gym.forum,premium,437.5,,high,low,3,name.com,,,
-a95d8d8d-49c3-4aac-b2dd-41ee8cfe0f04,gym.pink,available,14.99,,high,low,3,name.com,,,
