@@ -1,10 +1,10 @@
-# One-Word Health & Fitness Domain Names Across 506 TLDs (172,646)
+# One-Word Health & Fitness Domain Names Across 506 TLDs (182,614)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-172%2C646%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-182%2C614%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 171,402 one-word domain names related to health and fitness, spanning 506 TLDs with a median asking price near $648. Updated daily, it lets you compare price, TLD, and brandability side by side.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **172,646 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **182,614 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 172,646 domains · **Median ask:** $330.16 · **High-demand under $2,500:** 276
+**Public extract:** 1,000 rows · **Live catalog:** 182,614 domains · **Median ask:** $316.09 · **High-demand under $2,500:** 243
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| health.accountants | available | $117.99    | $117.99       | high           | medium | 6      | namesilo          |
-| health.theater     | resell    | $80.98     | —             | high           | medium | 6      | Sav.com, LLC      |
-| gym.cloud          | premium   | $13,000    | $13,000       | high           | low    | 3      | namecheap         |
-| health.archi       | available | $13.14     | $83           | high           | medium | 6      | spaceship         |
-| fitness.net        | resell    | $287,500   | $23.99        | high           | medium | 7      | GoDaddy.com, LLC  |
-| gym.cricket        | premium   | $640       | $77.35        | high           | low    | 3      | namesilo          |
-| health.audio       | available | $100.20    | $100.20       | high           | medium | 6      | cloudflare        |
-| fitness.org        | resell    | $1,725,000 | $21.99        | high           | medium | 7      | GoDaddy.com, LLC  |
-| gym.living         | premium   | $1,107     | $1,107        | high           | low    | 3      | namesilo          |
-| health.auto        | available | $1,863.20  | $2,064.20     | high           | medium | 6      | spaceship         |
-| fitness.xxx        | resell    | $620       | —             | high           | medium | 7      | name.com          |
-| health.accountant  | premium   | $455       | $65           | high           | medium | 6      | namecheap         |
-| health.blackfriday | available | $114.99    | $114.99       | high           | medium | 6      | namesilo          |
-| gym.ninja          | resell    | —          | —             | high           | low    | 3      | Dynadot Inc       |
-| health.airforce    | premium   | $102.67    | $102.67       | high           | medium | 6      | spaceship         |
-| health.car         | available | $2,060.25  | $2,060.25     | high           | medium | 6      | porkbun           |
-| health.ac          | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC  |
-| health.army        | premium   | $207.20    | $207.20       | high           | medium | 6      | spaceship         |
-| health.country     | available | $2,298     | $2,450        | high           | medium | 6      | namecheap         |
-| health.apartments  | resell    | —          | —             | high           | medium | 6      | Sav.com, LLC - 14 |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| gym.hiv           | available | $184.90    | $184.90       | high           | low    | 3      | spaceship        |
+| health.theater    | resell    | $80.98     | —             | high           | medium | 6      | Sav.com, LLC     |
+| gym.center        | premium   | $207.20    | $207.20       | high           | low    | 3      | spaceship        |
+| gym.hockey        | available | $62.98     | $72.98        | high           | low    | 3      | namecheap        |
+| fitness.net       | resell    | $287,500   | $23.99        | high           | medium | 7      | GoDaddy.com, LLC |
+| gym.health        | premium   | $6,900     | $71.40        | high           | low    | 3      | namesilo         |
+| gym.navy          | available | $33.32     | $33.32        | high           | low    | 3      | spaceship        |
+| fitness.org       | resell    | $1,725,000 | $21.99        | high           | medium | 7      | GoDaddy.com, LLC |
+| gym.pro           | premium   | $3,450     | $3,450        | high           | low    | 3      | namesilo         |
+| gym.tennis        | available | $51.95     | $51.95        | high           | low    | 3      | spaceship        |
+| fitness.xxx       | resell    | $620       | —             | high           | medium | 7      | name.com         |
+| gym.training      | premium   | $102.67    | $102.67       | high           | low    | 3      | spaceship        |
+| health.archi      | available | $13.14     | $83           | high           | medium | 6      | spaceship        |
+| exercise.wtf      | resell    | $5.99      | —             | high           | low    | 8      | Spaceship, Inc.  |
+| health.accountant | premium   | $455       | $65           | high           | medium | 6      | namecheap        |
+| health.audio      | available | $104.99    | $114.99       | high           | medium | 6      | namesilo         |
+| training.pro      | resell    | $9,459.90  | $33.99        | high           | low    | 8      | Porkbun LLC      |
+| health.airforce   | premium   | $102.67    | $102.67       | high           | medium | 6      | spaceship        |
+| health.auto       | available | $1,999.99  | $2,199        | high           | medium | 6      | namesilo         |
+| gym.org           | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 172,646 live domains                       |
+| 1,000-row public sample | 182,614 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 276 high-demand names under $2,500         |
+| Basic exported fields   | 243 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Health & Fitness Domain Names Across 506 TLDs*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
