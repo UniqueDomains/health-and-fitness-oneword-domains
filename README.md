@@ -1,10 +1,10 @@
-# One-Word Health & Fitness Domain Names Across 506 TLDs (198,957)
+# One-Word Health & Fitness Domain Names Across 506 TLDs (203,310)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-198%2C957%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-203%2C310%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 171,402 one-word domain names related to health and fitness, spanning 506 TLDs with a median asking price near $648. Updated daily, it lets you compare price, TLD, and brandability side by side.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **198,957 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **203,310 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 198,957 domains · **Median ask:** $300.09 · **High-demand under $2,500:** 214
+**Public extract:** 1,000 rows · **Live catalog:** 203,310 domains · **Median ask:** $294.40 · **High-demand under $2,500:** 207
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
@@ -25,7 +25,7 @@ This selection covers 171,402 one-word domain names related to health and fitnes
 <p align="center">
   <a href="https://unique.domains/domains/sector/health-and-fitness?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./health-and-fitness.csv">CSV</a> / <a href="./health-and-fitness.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| health.accountants | available | $122.98    | $145.98       | high           | medium | 6      | namecheap        |
+| health.accountants | available | $90.20     | $90.20        | high           | medium | 6      | cloudflare       |
 | health.theater     | resell    | $80.98     | —             | high           | medium | 6      | Sav.com, LLC     |
 | gym.coach          | premium   | $242       | $242          | high           | low    | 3      | namesilo         |
-| health.audio       | available | $103.50    | $103.50       | high           | medium | 6      | porkbun          |
+| health.archi       | available | $13.14     | $83           | high           | medium | 6      | spaceship        |
 | fitness.net        | resell    | $287,500   | $23.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| gym.health         | premium   | $6,900     | $71.40        | high           | low    | 3      | namesilo         |
-| health.auto        | available | $1,999.99  | $2,199        | high           | medium | 6      | namesilo         |
+| gym.courses        | premium   | $517.70    | $517.70       | high           | low    | 3      | spaceship        |
+| health.auto        | available | $2,070     | $2,950        | high           | medium | 6      | namecheap        |
 | fitness.org        | resell    | $1,725,000 | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| gym.horse          | premium   | $437.19    | $27.82        | high           | low    | 3      | porkbun          |
-| health.blackfriday | available | $107.22    | $107.22       | high           | medium | 6      | dynadot          |
+| gym.health         | premium   | $6,900     | $71.40        | high           | low    | 3      | namesilo         |
+| health.blackfriday | available | $103.70    | $103.70       | high           | medium | 6      | spaceship        |
 | fitness.xxx        | resell    | $620       | —             | high           | low    | 7      | GoDaddy.com, LLC |
-| gym.institute      | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo         |
+| gym.horse          | premium   | $437.19    | $27.82        | high           | low    | 3      | porkbun          |
 | health.car         | available | $1,863.20  | $2,064.20     | high           | medium | 6      | spaceship        |
 | exercise.wtf       | resell    | $5.99      | —             | high           | low    | 8      | Spaceship, Inc.  |
-| gym.training       | premium   | $102.67    | $102.67       | high           | low    | 3      | spaceship        |
-| health.cars        | available | $1,863.20  | $2,064.20     | high           | medium | 6      | spaceship        |
+| health.accountant  | premium   | $455       | $65           | high           | medium | 6      | namecheap        |
+| health.cars        | available | $2,070     | $2,950        | high           | medium | 6      | namecheap        |
 | training.pro       | resell    | $9,459.90  | $33.99        | high           | low    | 8      | Porkbun LLC      |
-| health.accountant  | premium   | $362.45    | $51.95        | high           | medium | 6      | spaceship        |
+| health.airforce    | premium   | $108.90    | $108.90       | high           | medium | 6      | dynadot          |
 | health.country     | available | $2,064.20  | $2,064.20     | high           | medium | 6      | spaceship        |
-| health.ac          | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| gym.care           | resell    | —          | —             | high           | low    | 3      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 198,957 live domains                                 |
+| 1,000-row public sample | 203,310 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 214 high-demand names under $2,500                   |
+| Basic exported fields   | 207 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/health-and-fitness?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_health_and_fitness_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
