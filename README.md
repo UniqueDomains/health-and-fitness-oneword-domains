@@ -1,10 +1,10 @@
-# One-Word Health & Fitness Domain Names Across 506 TLDs (225,707)
+# One-Word Health & Fitness Domain Names Across 506 TLDs (225,671)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-225%2C707%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-225%2C671%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 171,402 one-word domain names related to health and fitness, spanning 506 TLDs with a median asking price near $648. Updated daily, it lets you compare price, TLD, and brandability side by side.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **225,707 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **225,671 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 225,707 domains · **Median ask:** $275.70 · **High-demand under $2,500:** 1,557
+**Public extract:** 1,000 rows · **Live catalog:** 225,671 domains · **Median ask:** $275.66 · **High-demand under $2,500:** 1,560
 
 **Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
@@ -77,13 +77,13 @@ print(df.head())
 | fitness.xxx        | resell    | $620       | —             | high           | medium | 7      | GoDaddy.com, LLC |
 | health.auction     | premium   | $1,107     | $1,107        | high           | medium | 6      | namesilo         |
 | health.car         | available | $1,999.99  | $2,199        | high           | medium | 6      | namesilo         |
-| exercise.wtf       | resell    | $5.99      | —             | high           | low    | 8      | Spaceship, Inc.  |
+| training.pro       | resell    | $9,459.90  | $33.99        | high           | medium | 8      | Porkbun LLC      |
 | health.autos       | premium   | $2,660     | $2,660        | high           | medium | 6      | namesilo         |
 | health.cars        | available | $2,140.22  | $2,140.22     | high           | medium | 6      | dynadot          |
-| training.pro       | resell    | $9,459.90  | $33.99        | high           | medium | 8      | Porkbun LLC      |
+| health.ac          | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC |
 | health.bargains    | premium   | $207.20    | $207.20       | high           | medium | 6      | spaceship        |
 | health.country     | available | $2,064.20  | $2,064.20     | high           | medium | 6      | spaceship        |
-| health.ac          | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| health.agency      | resell    | —          | —             | high           | medium | 6      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 225,707 live domains                                 |
+| 1,000-row public sample | 225,671 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 1,557 high-demand names under $2,500                 |
+| Basic exported fields   | 1,560 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
