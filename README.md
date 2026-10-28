@@ -1,10 +1,10 @@
-# One-Word Health & Fitness Domain Names Across 506 TLDs (224,385)
+# One-Word Health & Fitness Domain Names Across 506 TLDs (224,355)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-224%2C385%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-224%2C355%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 171,402 one-word domain names related to health and fitness, spanning 506 TLDs with a median asking price near $648. Updated daily, it lets you compare price, TLD, and brandability side by side.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **224,385 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **224,355 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 224,385 domains · **Median ask:** $259.27 · **High-demand under $2,500:** 3,686
+**Public extract:** 1,000 rows · **Live catalog:** 224,355 domains · **Median ask:** $259.33 · **High-demand under $2,500:** 3,218
 
 **Last updated:** 2026-10-27
 **Canonical page:** `https://unique.domains/domains/sector/health-and-fitness`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| health.accountants | available | $117.99   | $117.99       | high           | high   | 6      | namesilo                                    |
-| workout.bio        | resell    | $9.99     | —             | high           | low    | 7      | Spaceship, Inc.                             |
-| gym.center         | premium   | $207.20   | $207.20       | high           | low    | 3      | spaceship                                   |
-| health.archi       | available | $13.14    | $83           | high           | high   | 6      | spaceship                                   |
-| gym.co             | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                 |
-| gym.pro            | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo                                    |
-| health.audio       | available | $93.35    | $103.40       | high           | high   | 6      | spaceship                                   |
-| gym.org            | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
-| diet.fit           | premium   | $854      | $29.50        | high           | low    | 4      | namesilo                                    |
-| health.auto        | available | $1,863.20 | $2,064.20     | high           | high   | 6      | spaceship                                   |
-| gym.run            | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
-| health.accountant  | premium   | $362.45   | $51.95        | high           | high   | 6      | spaceship                                   |
-| health.blackfriday | available | $103.70   | $103.70       | high           | high   | 6      | spaceship                                   |
-| workout.app        | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC.                 |
-| health.airforce    | premium   | $118.80   | $118.80       | high           | high   | 6      | namesilo                                    |
-| health.car         | available | $1,999.99 | $2,199        | high           | high   | 6      | namesilo                                    |
-| workout.asia       | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
-| health.army        | premium   | $200.50   | $207.20       | high           | high   | 6      | unstoppable                                 |
-| health.cars        | available | $1,999.99 | $2,199        | high           | high   | 6      | namesilo                                    |
-| workout.net        | resell    | —         | —             | high           | low    | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| gym.degree         | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare       |
+| gym.life           | resell    | —         | —             | high           | low    | 3      | —                |
+| gym.vet            | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
+| health.accountants | available | $117.99   | $117.99       | high           | high   | 6      | namesilo         |
+| gym.yoga           | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| health.accountant  | premium   | $362.45   | $51.95        | high           | high   | 6      | spaceship        |
+| health.archi       | available | $13.14    | $83           | high           | high   | 6      | spaceship        |
+| well.fitness       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| health.airforce    | premium   | $118.80   | $118.80       | high           | high   | 6      | namesilo         |
+| health.audio       | available | $93.35    | $103.40       | high           | high   | 6      | spaceship        |
+| strength.cloud     | resell    | —         | —             | high           | medium | 8      | Dynadot, LLC     |
+| health.army        | premium   | $200.50   | $207.20       | high           | high   | 6      | unstoppable      |
+| health.auto        | available | $1,863.20 | $2,064.20     | high           | high   | 6      | spaceship        |
+| strength.fit       | resell    | —         | —             | high           | medium | 8      | GoDaddy.com, LLC |
+| health.associates  | premium   | $68.51    | $68.51        | high           | high   | 6      | spaceship        |
+| health.blackfriday | available | $103.70   | $103.70       | high           | high   | 6      | spaceship        |
+| strength.men       | resell    | —         | —             | high           | medium | 8      | NameSilo, LLC    |
+| health.attorney    | premium   | $1,107    | $1,107        | high           | high   | 6      | namesilo         |
+| health.car         | available | $1,999.99 | $2,199        | high           | high   | 6      | namesilo         |
+| strength.pro       | resell    | —         | —             | high           | medium | 8      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 224,385 live domains                                 |
+| 1,000-row public sample | 224,355 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 3,686 high-demand names under $2,500                 |
+| Basic exported fields   | 3,218 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
